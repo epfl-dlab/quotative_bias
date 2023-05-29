@@ -1,0 +1,726 @@
+,link,title,bias rating,factual reporting,country,press freedom rating,media type,traffic/popularity,mbfc credibility rating
+0,https://www.100milefreepress.net/,100 Mile Free Press,left-center,high,canada,mostly free,newspaper,minimal traffic,high credibility
+1,https://604now.com/,604 Now,left-center,mostly factual,canada,mostly free,newspaper,medium traffic,high credibility
+2,https://972mag.com/,+972 Magazine,left-center,high,usa,mostly free,website,minimal traffic,high credibility
+3,https://www.whitehouse.gov/1600daily,1600 Daily,,mostly factual,usa,,,,
+4,https://abcnews.go.com,ABC News,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+5,https://www.abc.net.au,ABC News Australia,left-center,high,australia,mostly free,tv station,high traffic,high credibility
+6,https://abc11.com/,ABC11 Eyewitness News,left-center,high,usa,mostly free,tv station,medium traffic,high credibility
+7,http://www.abbynews.com/,Abbotsford News,left-center,high,canada,mostly free,newspaper,medium traffic,high credibility
+8,https://abovethelaw.com/,Above the Law,left-center,high,usa,mostly free,website,medium traffic,high credibility
+9,https://www.aceshowbiz.com/,AceShowbiz (ASB),left-center,mixed,indonesia,limited freedom,website,medium traffic,medium credibility
+10,https://www.aclu.org/,American Civil Liberties Union (ACLU),left-center,mixed,usa (44/180 press freedom),,organization/foundation,medium traffic,medium credibility
+11,http://www.adaderana.lk/,Ada Derana,left-center,mixed,sri lanka,limited freedom,website,medium traffic,medium credibility
+12,https://aeon.co/,Aeon,left-center,high,australia,mostly free,website,medium traffic,high credibility
+13,http://affinitymagazine.us/,Affinity Magazine,left-center,mixed,usa,mostly free,magazine,minimal traffic,mixed credibility
+14,https://africanarguments.org/,African Arguments,left-center,high,united kingdom,mostly free,website,minimal traffic,high credibility
+15,https://www.africanews.com/,Africa News,left-center,mostly factual,france,mostly free,tv station,medium traffic,high credibility
+16,https://ahvalnews.com/,Ahval News,left-center,mixed,usa,mostly free,website,medium traffic,medium credibility
+17,https://www.beaconjournal.com/,Akron Beacon Journal,left-center,high,usa,,newspaper,medium traffic,high credibility
+18,https://www.aljazeera.com/,Al Jazeera,left-center,mixed,qatar,,tv station,high traffic,medium credibility
+19,https://www.al-monitor.com/,Al Monitor,left-center,high,usa,mostly free,website,high traffic,high credibility
+20,https://al-sura.com,Al-Sura,left-center,mixed,usa,mostly free,website,minimal traffic,medium credibility
+21,https://www.guttmacher.org/,Alan Guttmacher Institute,left-center,high,usa,mostly free,organization/foundation,medium traffic,high credibility
+22,https://www.timesunion.com/,Albany Times-Union,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+23,https://albertaviews.ca,Alberta Views,left-center,high,canada,mostly free,magazine,minimal traffic,high credibility
+24,http://www.allgov.com,AllGov,left-center,high,usa,mostly free,website,minimal traffic,high credibility
+25,https://www.northbaynipissing.com/almaguinhighlands-on/,Almaguin News,left-center,high,canada,mostly free,website,minimal traffic,high credibility
+26,https://www.amny.com/,AM New York,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+27,https://www.americamagazine.org/,America Magazine,left-center,high,usa,mostly free,magazine,medium traffic,high credibility
+28,https://www.americanimmigrationcouncil.org,American Immigration Council,left-center,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+29,https://www.americanpublicmedia.org,American Public Media,left-center,high,usa (44/180 press freedom),,organization/foundation,minimal traffic,high credibility
+30,https://www.americanpurpose.com/,American Purpose,left-center,high,usa,mostly free,website,medium traffic,high credibility
+31,https://www.amestrib.com/,Ames Tribune,left-center,high,usa,,newspaper,minimal traffic,high credibility
+32,https://www.amnesty.org/en/,Amnesty International,left-center,high,united kingdom,mostly free,organization/foundation,medium traffic,high credibility
+33,https://www.thespec.com/local-ancaster,Ancaster News,left-center,high,canada,mostly free,newspaper,minimal traffic,high credibility
+34,https://www.annistonstar.com,Anniston Star,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+35,https://www.anthropocenemagazine.org/,Anthropocene Magazine,left-center,high,usa,mostly free,magazine,minimal traffic,high credibility
+36,https://www.adl.org,Anti-Defamation League (ADL),left-center,high,usa,mostly free,organization/foundation,medium traffic,high credibility
+37,https://www.aol.com/,AOL,left-center,high,usa,mostly free,website,high traffic,high credibility
+38,https://www.apmreports.org/,APM Reports,left-center,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+39,https://www.apple.com/apple-news/,Apple News,left-center,mostly factual,usa,mostly free,app/website,high traffic,high credibility
+40,https://www.aptnnews.ca/,APTN News,left-center,high,canada,mostly free,tv station,medium traffic,high credibility
+41,https://areomagazine.com,Areo Magazine,left-center,high,united kingdom,mostly free,website,medium traffic,high credibility
+42,https://azcapitoltimes.com/,Arizona Capitol Times,left-center,high,usa,mostly free,newspaper,minimal traffic,high credibility
+43,https://tucson.com/,Arizona Daily Star,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+44,https://azdailysun.com,Arizona Daily Sun,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+45,https://www.azcentral.com,Arizona Republic (AZ Central),left-center,high,usa,mostly free,newspaper,high traffic,high credibility
+46,https://www.arktimes.com,Arkansas Times,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+47,https://www.armscontrol.org,Arms Control Association,left-center,high,usa,mostly free,organization/foundation,medium traffic,high credibility
+48,https://www.insideottawavalley.com/arnprior-on/,Arnprior Chronicle-Guide,left-center,high,canada,mostly free,newspaper,minimal traffic,high credibility
+49,https://www.arte.tv/,ARTE,left-center,mostly factual,france/germany,mostly free,tv station,high traffic,high credibility
+50,https://www.citizen-times.com/,Asheville Citizen-Times,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+51,https://www.asiasentinel.com/,Asia Sentinel,left-center,mixed,usa,mostly free,website,minimal traffic,medium credibility
+52,https://aspeniaonline.it/,Aspenia Online,left-center,high,italy,moderate freedom,organization/foundation,minimal traffic,high credibility
+53,https://www.aspeninstitute.org/,Aspen Institute,left-center,high,usa,mostly free,organization/foundation,medium traffic,high credibility
+54,https://apnews.com/,Associated Press,left-center,high,usa,,news agency,high traffic,high credibility
+55,https://magazine.atavist.com/,Atavist Magazine,left-center,very high,usa,mostly free,magazine,medium traffic,high credibility
+56,https://www.onlineathens.com/,Athens Banner-Herald,left-center,high,usa,,newspaper,medium traffic,high credibility
+57,https://www.enewscourier.com/,Athens News Courier,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+58,https://atlantablackstar.com/,Atlanta Black Star,left-center,mostly factual,usa,mostly free,website,high traffic,high credibility
+59,https://www.ajc.com/,Atlanta Journal-Constitution,left-center,high,usa,mostly free,newspaper,high traffic,high credibility
+60,https://www.theatlantic.com/,The Atlantic,left-center,high,usa,,magazine,high traffic,high credibility
+61,https://www.atlanticmedia.com/,Atlantic Media,left-center,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+62,https://www.attn.com/,ATTN:,left-center,high,usa,mostly free,website,medium traffic,high credibility
+63,https://www.yorkregion.com/aurora-on/,Aurora Banner,left-center,high,canada,mostly free,newspaper,minimal traffic,high credibility
+64,https://www.statesman.com/,Austin American-Statesman,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+65,https://www.austindailyherald.com/,Austin Daily Herald (Minnesota),left-center,high,usa,mostly free,website,minimal traffic,high credibility
+66,https://www.avclub.com/,AV Club,,high,usa,,,,
+67,https://www.axios.com/,Axios,left-center,high,usa,,website,high traffic,high credibility
+68,https://www.wired.com/category/backchannel/,BackChannel,left-center,high,usa,,website,minimal traffic,high credibility
+69,https://balkaninsight.com/,Balkan Insight,left-center,high,usa,mostly free,organization/foundation,medium traffic,high credibility
+70,https://www.baltimoresun.com/,Baltimore Sun,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+71,https://bangordailynews.com/,Bangor Daily News,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+72,https://baptistnews.com/,Baptist News Global,left-center,high,usa,mostly free,news agency,medium traffic,high credibility
+73,https://www.simcoe.com/barrie-on/,Barrie Advance,left-center,high,canada,mostly free,newspaper,minimal traffic,high credibility
+74,https://www.barrietoday.com/,Barrie Today,left-center,high,canada,mostly free,website,medium traffic,high credibility
+75,https://www.battlecreekenquirer.com,Battle Creek Enquirer,left-center,high,usa,mostly free,newspaper,minimal traffic,high credibility
+76,https://www.baxterbulletin.com,The Baxter Bulletin,left-center,high,usa,,newspaper,minimal traffic,high credibility
+77,https://baynature.org/,Bay Nature Magazine,left-center,high,usa,mostly free,magazine,medium traffic,high credibility
+78,https://www.bbc.com/news,BBC,left-center,high,united kingdom,,tv station,high traffic,high credibility
+79,https://www.tmnews.com/,Bedford Times-Mail,left-center,high,usa,,newspaper,minimal traffic,high credibility
+80,https://www.bellingcat.com/,Bellingcat,left-center,mostly factual,united kingdom,mostly free,website,medium traffic,high credibility
+81,https://www.bellinghamherald.com/,Bellingham Herald,,high,usa,,,,
+82,https://www.berkeleyside.com/,Berkeleyside,left-center,high,usa,mostly free,website,medium traffic,high credibility
+83,https://www.berkshireeagle.com/,Berkshire Eagle,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+84,https://www.berliner-zeitung.de/,Berliner Zeitung,left-center,mostly factual,usa,mostly free,newspaper,high traffic,high credibility
+85,https://www.bing.com/news/,Bing News,left-center,high,usa,mostly free,website,high traffic,high credibility
+86,https://www.birminghammail.co.uk,Birmingham Mail,right-center,mostly factual,united kingdom,mostly free,newspaper,high traffic,high credibility
+87,https://www.blackenterprise.com/,Black Enterprise Magazine,left-center,high,usa,mostly free,magazine,medium traffic,high credibility
+88,https://blackpressusa.com/,BlackPressUSA,left-center,high,usa,mostly free,website,minimal traffic,high credibility
+89,https://bleacherreport.com/,Bleacher Report,left-center,mostly factual,usa,mostly free,website,high traffic,high credibility
+90,https://www.bloomberg.com/,Bloomberg News,left-center,mostly factual,usa,,tv station,high traffic,high credibility
+91,http://www.bluestemprairie.com/,Bluestem Prairie,left-center,high,usa,mostly free,website,minimal traffic,high credibility
+92,https://www.boston.com/,Boston.com,,high,usa,,,,
+93,https://www.bostonglobe.com/,Boston Globe,left-center,high,usa,,newspaper,high traffic,high credibility
+94,bgr.com/,Boy Genius Report (BGR),left-center,high,usa,,website,high traffic,high credibility
+95,https://www.muskokaregion.com/bracebridge-on/,Bracebridge Examiner,left-center,high,canada,mostly free,newspaper,minimal traffic,high credibility
+96,https://www.bramptonguardian.com,Brampton Guardian,left-center,high,canada,mostly free,newspaper,medium traffic,high credibility
+97,https://www.brennancenter.org/,Brennan Center for Justice,left-center,high,usa,,organization/foundation,medium traffic,high credibility
+98,https://www.brookings.edu/,Brookings Institution,left-center,very-high,usa,,organization/foundation,medium traffic,high credibility
+99,https://thebulletin.org/,Bulletin of the Atomic Scientists,left-center,high,usa,,organization/foundation,medium traffic,high credibility
+100,https://www.insidehalton.com/burlington-on/,Burlington Post,left-center,high,canada,mostly free,newspaper,minimal traffic,high credibility
+101,http://www.businessinsider.com/,Business Insider,left-center,high,usa,,website,high traffic,high credibility
+102,https://www.bustle.com/,Bustle Magazine,left-center,mostly factual,usa,mostly free,magazine,high traffic,high credibility
+103,https://www.buzzfeed.com/,Buzzfeed,left-center,mixed,usa,,website,high traffic,medium credibility
+104,https://www.buzzfeednews.com/,Buzzfeed News,left-center,mostly factual,usa,mostly free,website,high traffic,high credibility
+105,https://bylinetimes.com/,Byline Times,left-center,high,united kingdom,mostly free,newspaper,medium traffic,high credibility
+106,https://www.caledonenterprise.com/,Caledon Enterprise,left-center,high,canada,mostly free,newspaper,minimal traffic,high credibility
+107,https://www.cambridgetimes.ca/,Cambridge Times,left-center,high,canada,mostly free,newspaper,minimal traffic,high credibility
+108,https://www.canadaland.com/,Canadaland,left-center,high,canada,mostly free,website,minimal traffic,high credibility
+109,https://www.capitalgazette.com/,Capital Gazette,left-center,high,usa,,newspaper,medium traffic,high credibility
+110,https://www.caribbeanlifenews.com/,Caribbean Life News,left-center,high,usa,,newspaper,minimal traffic,high credibility
+111,https://www.insideottawavalley.com/carletonplace-on/,Carleton Place Canadian Gazette,left-center,high,canada,mostly free,newspaper,minimal traffic,high credibility
+112,https://carnegieendowment.org/,Carnegie Endowment for International Peace (CEIP),left-center,high,usa,,organization/foundation,medium traffic,high credibility
+113,https://carolinapublicpress.org/,Carolina Public Press,left-center,high,usa,,organization/foundation,minimal traffic,high credibility
+114,http://www.catchnews.com,Catch News,left-center,mostly factual,india,limited freedom,website,medium traffic,medium credibility
+115,https://www.cbc.ca/news,CBC News (Canadian Broadcasting),left-center,high,canada,,tv station,high traffic,high credibility
+116,https://boston.cbslocal.com/,CBS Boston – WBZ-TV,,high,usa,,,,
+117,https://www.cbsnews.com/losangeles,CBS Los Angeles (KCBS),left-center,high,usa,mostly free,tv station,high traffic,high credibility
+118,https://www.cbsnews.com,CBS News,left-center,high,usa,,tv station,high traffic,high credibility
+119,https://newyork.cbslocal.com/,CBS New York (WCBS-TV) (WLNY-TV),left-center,high,usa,mostly free,tv station,high traffic,high credibility
+120,https://seattle.cbslocal.com/,CBS Seattle – CW 11,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+121,https://www.cecildaily.com/,Cecil Whig,left-center,high,usa,mostly free,newspaper,minimal traffic,high credibility
+122,https://censor.net/,Censor.NET,left-center,mostly factual,ukraine,moderate freedom,website,high traffic,high credibility
+123,https://c4ads.org/,Center for Advanced Defense Studies,left-center,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+124,https://www.cgdev.org/,Center for Global Development,left-center,high,usa,mostly free,organization/foundation,medium traffic,high credibility
+125,https://centerforinquiry.org,Center for Inquiry,left-center,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+126,https://www.internationalpolicy.org/,Center for International Policy,left-center,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+127,https://www.cnas.org/,Center for a New American Security,left-center,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+128,http://populardemocracy.org/,Center for Popular Democracy,left-center,high,usa,,organization/foundation,minimal traffic,high credibility
+129,https://www.publicintegrity.org/,Center for Public Integrity,left-center,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+130,https://www.cbpp.org/,The Center on Budget and Policy Priorities,left-center,high,usa,,organization/foundation,medium traffic,high credibility
+131,http://focustaiwan.tw/,Central News Agency (CNA) / Focus Taiwan,,high,taiwan,,,,
+132,https://www.chalkbeat.org/,Chalkbeat,left-center,high,usa,mostly free,organization/foundation,medium traffic,high credibility
+133,https://www.channel4.com/news/,Channel 4 News (UK),left-center,high,united kingdom,,tv station,high traffic,high credibility
+134,https://www.wvgazettemail.com/,Charleston Gazette-Mail,left-center,high,usa,mostly free,newspaper,minimal traffic,high credibility
+135,https://www.charlotteobserver.com,Charlotte Observer,left-center,high,usa,mostly free,website,high traffic,high credibility
+136,https://cheddar.com,Cheddar,left-center,high,usa,,tv station,medium traffic,high credibility
+137,https://chicago.suntimes.com/,Chicago Sun-Times,left-center,high,usa,,newspaper,high traffic,high credibility
+138,https://chinaglobalsouth.com/,China Global South Project,left-center,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+139,https://citizentruth.org,Citizen Truth,left-center,mostly factual,usa,mostly free,website,minimal traffic,medium credibility
+140,https://www.citizensforethics.org,Citizens for Responsibility and Ethics in Washington (CREW),left-center,mostly factual,usa,,organization/foundation,minimal traffic,medium credibility
+141,https://ctj.org/,Citizens for Tax Justice,left-center,mostly factual,usa,mostly free,organization/foundation,minimal traffic,high credibility
+142,citylab.com,CityLab,,high,usa,,,,
+143,http://www.citypages.com/,City Pages,,high,usa,,,,
+144,https://www.cityandstateny.com/,City and State New York,left-center,high,usa,mostly free,website,medium traffic,high credibility
+145,https://www.durhamregion.com/clarington-on/,Clarington This Week,left-center,high,canada,mostly free,newspaper,minimal traffic,high credibility
+146,https://www.clarionledger.com/,Clarion Ledger,,high,usa,,,,
+147,https://cleantechnica.com/,Clean Technica,left-center,high,usa (45/180 press freedom),,website,medium traffic,high credibility
+148,https://www.cnbc.com/,CNBC,left-center,mostly factual,usa,mostly free,tv station,high traffic,high credibility
+149,https://coed.com/,COED.com,left-center,mostly factual,usa,mostly free,website,minimal traffic,medium credibility
+150,https://www.cjr.org/,Columbia Journalism Review,left-center,high,usa,,magazine,medium traffic,high credibility
+151,https://colombiareports.com,Colombia Reports,left-center,mixed,columbia,limited freedom,organization/foundation,minimal traffic,medium credibility
+152,https://www.dispatch.com/,Columbus Dispatch,left-center,high,usa,mostly free,newspaper,high traffic,high credibility
+153,https://investigaterussia.org,Committee to Investigate Russia,left-center,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+154,https://www.commoncause.org,Common Cause,left-center,high,usa|,,organization/foundation,medium traffic,high credibility
+155,https://www.commonwealmagazine.org,Commonweal Magazine,left-center,high,usa,mostly free,magazine,medium traffic,high credibility
+156,https://www.commonwealthfund.org/,Commonwealth Fund,left-center,high,usa,mostly free,organization/foundation,medium traffic,high credibility
+157,https://www.complex.com/,Complex,left-center,mostly factual,usa,mostly free,website,high traffic,high credibility
+158,https://www.ctpost.com,Connecticut Post,,high,usa,,,,
+159,https://consortiumnews.com/,Consortium News,left-center,mostly factual,usa,mostly free,website,medium traffic,high credibility
+160,https://www.pogo.org/the-constitution-project,Constitution Project,left-center,mostly factual,usa,mostly free,organization/foundation,minimal traffic,high credibility
+161,https://www.caller.com,Corpus Christi Caller-Times,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+162,https://crosscut.com/,Crosscut.com,,high,usa,,,,
+163,https://ctmirror.org/,CT Mirror,,high,usa,,,,
+164,https://www.cullmantimes.com/,Cullman Times,left-center,high,usa,mostly free,newspaper,minimal traffic,high credibility
+165,https://www.dailycommercial.com/,Daily Commercial,left-center,high,usa,,newspaper,minimal traffic,high credibility
+166,https://www.gazettenet.com,Daily Hampshire Gazette,,high,usa,,,,
+167,https://www.mirror.co.uk,Daily Mirror,left-center,mixed,united kingdom,,newspaper,high traffic,medium credibility
+168,https://nation.africa/,The Daily Nation,left-center,mixed,kenya,limited freedom,website,high traffic,medium credibility
+169,https://www.dnj.com/,Daily News Journal,left-center,high,usa,mostly free,newspaper,minimal traffic,high credibility
+170,https://www.dawn.com/,Dawn (Pakistan),left-center,mostly factual,pakistan (145/180 press freedom),,newspaper,high traffic,medium credibility
+171,https://dcist.com/,DCist,left-center,high,usa,mostly free,website,medium traffic,high credibility
+172,https://www.dcreport.org/,DCReport.org,,high,usa,,,,
+173,https://deadline.com/,Deadline Hollywood,left-center,high,usa (44/180 press freedom),,website,high traffic,high credibility
+174,http://www.deccanherald.com/,Deccan Herald,left-center,mixed,india (142/180 press freedom),,newspaper,high traffic,medium credibility
+175,https://debunkingdenialism.com,Debunking Denialism,,high,sweden,,,,
+176,https://www.delawareonline.com/,Delaware Online – The News Journal,left-center,high,usa (44/180 press freedom),,newspaper,medium traffic,high credibility
+177,https://www.delo.si/,Delo,left-center,mostly factual,slovenia,moderate freedom,newspaper,high traffic,high credibility
+178,https://democracy21.org/,Democracy 21,left-center,high,usa (44/180 press freedom),,organization/foundation,minimal traffic,high credibility
+179,https://www.democratandchronicle.com/,Democrat and Chronicle,,high,usa,,,,
+180,https://www.demos.org/,Demos,left-center,high,usa (44/180 press freedom),,organization/foundation,minimal traffic,high credibility
+181,https://www.denverpost.com/,Denver Post,left-center,high,usa,,newspaper,high traffic,high credibility
+182,https://www.westword.com/,Denver Westword,,high,usa,,,,
+183,https://www.derstandard.at/,Der Standard,,high,usa,,,,
+184,https://www.freep.com/,Detroit Free Press,left-center,high,usa (44/180 press freedom),,newspaper,high traffic,high credibility
+185,https://www.zeit.de/,Die Zeit,,high,germany,,,,
+186,https://digg.com/,Digg,,high,usa,,,,
+187,https://diply.com/,Diply,,mixed,canada,,,,
+188,http://www.diversityinc.com,DiversityInc,left-center,high,usa (44/180 press freedom),,website,minimal traffic,high credibility
+189,https://www.myeasternshoremd.com/dorchester_star/,Dorchester Star,left-center,high,usa,mostly free,newspaper,minimal traffic,high credibility
+190,https://www.thespec.com/local-dundas,Dundas Star,left-center,high,canada,mostly free,newspaper,minimal traffic,high credibility
+191,https://dutchreview.com/,Dutch Review,left-center,mostly factual,netherlands,,website,medium traffic,high credibility
+192,http://www.dw.com/,Deutsche Welle (DW) News,left-center,high,germany,,tv station,high traffic,high credibility
+193,http://earth.columbia.edu/sections/view/9,Earth Institute,,high,usa,,,,
+194,https://earthjustice.org,EarthJustice,,high,usa,,,,
+195,https://www.eastbaytimes.com/,East Bay Times,left-center,high,usa (45/180 press freedom),,newspaper,medium traffic,high credibility
+196,https://www.thestar.com/local-east-gwillimbury,East Gwillimbury Express,left-center,high,canada,mostly free,newspaper,minimal traffic,high credibility
+197,https://econofact.org/,Econofact,,high,usa,,,,
+198,https://www.epi.org,Economic Policy Institute,left-center,high,usa (44/180 press freedom),,organization/foundation,medium traffic,high credibility
+199,https://www.economicshelp.org,Economics.Help,left-center,high,united kingdom (33/180 press freedom),,website,medium traffic,high credibility
+200,https://egyptianstreets.com/,Egyptian Streets,left-center,mixed,egypt,,website,mediumtraffic,medium credibility
+201,https://www.ejinsight.com/,EJ Insight (Hong Kong Economic Journal),left-center,mixed,hong kong,,website,minimal traffic,medium credibility
+202,www.eldiario.es,elDiario.es,left-center,high,spain,mostly free,online newspaper,high traffic,high credibility
+203,https://eldiariony.com/,El Diario NY,left-center,high,usa,mostly free,newspaper,high traffic,high credibility
+204,https://elpais.com/,El Pais,,high,spain,,,,
+205,https://www.elpasotimes.com/,El Paso Times,,high,usa,,,,
+206,https://www.eff.org/,Electronic Frontier Foundation,left-center,high,usa (44/180 press freedom),,organization/foundation,medium traffic,high credibility
+207,https://emerging-europe.com/about/,Emerging Europe,,mostly factual,united kingdom,,,,
+208,https://www.emptywheel.net/,Empty Wheel,left-center,high,usa (44/180 press freedom),,website,medium traffic,high credibility
+209,https://www.engadget.com/,Engadget,,high,usa,,,,
+210,https://ew.com,Entertainment Weekly,,high,usa,,,,
+211,https://www.orangeville.com/erin-on-news/,Erin Advocate,left-center,high,canada,mostly free,newspaper,minimal traffic,high credibility
+212,https://www.espn.com/,ESPN,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+213,https://www.thestar.com/local-toronto-etobicoke,Etobicoke Guardian,left-center,high,canada,mostly free,newspaper,minimal traffic,high credibility
+214,https://www.registerguard.com/,Eugene Register-Guard,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+215,https://euobserver.com/,EU Observer,,high,belgium,,,,
+216,https://www.euractiv.com/,Euractiv,,high,belgium,,,,
+217,https://www.eurasiareview.com/,Eurasia Review,,high,usa,,,,
+218,http://euromaidanpress.com/,Euromaidan Press,left-center,high,ukraine,,newspaper (online),medium traffic,high credibility
+219,https://www.euronews.com,Euronews,left-center,high,france (34/180 press freedom),,tv station,high traffic,high credibility
+220,https://www.courierpress.com/,Evansville Courier & Press,left-center,high,usa,,newspaper,medium traffic,high credibility
+221,https://www.exposingtruth.com/,Exposing the Truth,left-center,high,united kingdom (33/180 press freedom),,website,minimal traffic,high credibility
+222,https://www.facebook.com/news,Facebook News,left-center,high,usa,mostly free,website,high traffic,high credibility
+223,http://factmyth.com/,Fact / Myth,,high,usa,,,,
+224,http://fair.org/,Fairness & Accuracy in Reporting (FAIR),,high,usa,,,,
+225,https://www.fairobserver.com,Fair Observer,left-center,high,usa (44/180 press freedom),,organization/foundation,medium traffic,high credibility
+226,http://www.fairvote.org/,FairVote,,high,usa,,,,
+227,https://www.fastcompany.com/,Fast Company Magazine,left-center,high,usa (44/180 press freedom),,magazine,high traffic,high credibility
+228,https://feministfrequency.com/,Feminist Frequency,,high,canada,,,,
+229,https://www.fightforthefuture.org,Fight for the Future,left-center,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+230,https://fivethirtyeight.com/,FiveThirtyEight,left-center,high,usa (45/180 press freedom),,website,high traffic,high credibility
+231,https://www.foodnavigator.com/,Food Navigator,left-center,mostly factual,united kingdom,mostly free,magazine,medium traffic,high credibility
+232,http://fpif.org/,Foreign Policy in Focus,,high,usa,,,,
+233,https://www.fwweekly.com/,Fort Worth Weekly,left-center,high,usa (44/180 press freedom),,newspaper,minimal traffic,high credibility
+234,https://www.francetvinfo.fr/,France Info,,high,france,,,,
+235,https://freakonomics.com/,Freakonomics Radio,,high,usa,,,,
+236,https://www.fresnobee.com/,Fresno Bee,,high,usa,,,,
+237,https://fusion.tv/,Fusion,,high,usa,,,,
+238,https://www.gadsdentimes.com/,Gadsden Times,left-center,high,usa,,newspaper,medium traffic,high credibility
+239,https://www.gainesville.com,Gainesville Sun,left-center,high,usa (44/180 press freedom),,newspaper,medium traffic,high credibility
+240,https://www.glamour.com/,Glamour Magazine,left-center,high,usa (45/180 press freedom),,website,high traffic,high credibility
+241,https://www.globalcitizen.org/en/,Global Citizen,,high,usa,,,,
+242,https://globalnews.ca/,Global News,left-center,high,canada,,website,high traffic,high credibility
+243,http://www.pri.org/programs/globalpost,GlobalPost,,high,usa,,,,
+244,https://globalrealnews.com,Global Real News,,mixed,usa,,,,
+245,https://globalriskinsights.com/,Global Risk Insights (GRI),left-center,high,united kingdom (33/180 press freedom),,website,minimal traffic,high credibility
+246,http://www.globaltimes.cn/,Global Times (China),left,mixed,china (177/180 press freedom),,newspaper,high traffic,low credibility
+247,https://www.gmanetwork.com/,GMA Network,left-center,mixed,philippines,limited freedom,tv station,high traffic,medium credibility
+248,https://news.google.com/,Google News,,high,usa,,,,
+249,https://gothamist.com/,Gothamist,,high,usa,,,,
+250,https://www.governing.com/,Governing Magazine,,high,usa,,,,
+251,https://whistleblower.org/,Government Accountability Project (GAP),,high,usa,,,,
+252,https://www.govexec.com/,Government Executive,,high,usa,,,,
+253,https://www.greensboro.com/,Greensboro News and Record,,high,usa,,,,
+254,https://www.grid.news/,Grid News,left-center,high,usa,mostly free,website,medium traffic,high credibility
+255,https://grist.org/,Grist,left-center,high,usa (44/180 press freedom),,website,medium traffic,high credibility
+256,https://www.guelphmercury.com/,Guelph Mercury Tribune,left-center,high,canada,mostly free,website,minimal traffic,high credibility
+257,https://www.gunviolencearchive.org,Gun Violence Archive,,high,usa,,,,
+258,https://www.thespec.com/,Hamilton Spectator,left-center,high,canada,mostly free,newspaper,medium traffic,high credibility
+259,https://harpers.org,Harper’s Magazine,,high,usa,,,,
+260,http://www.courant.com/,The Hartford Courant,,high,usa,,,,
+261,http://harvardpolitics.com/,Harvard Political Review,,high,usa,,,,
+262,https://www.hawaiitribune-herald.com/,Hawaii Tribune-Herald,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+263,https://www.health.com/,Health Magazine,,mixed,usa,,,,
+264,https://www.healthyway.com,HealthyWay,left-center,mostly factual,usa,mostly free,website,medium traffic,medium credibility
+265,https://heavy.com,Heavy,left-center,high,usa (45/180 press freedom),,website,high traffic,high credibility
+266,https://hechingerreport.org/,Hechinger Report,left-center,high,usa,mostly free,organization/foundation,medium traffic,high credibility
+267,https://www.hs.fi/,Helsingin Sanomat,,high,finland,,,,
+268,https://www.helsinkitimes.fi/,Helsinki Times,,high,finland,,,,
+269,https://www.thegleaner.com/,Henderson Gleaner,left-center,high,usa,,newspaper,minimal traffic,high credibility
+270,https://www.hcn.org,High Country News,left-center,high,usa,mostly free,magazine,medium traffic,high credibility
+271,https://www.hcn.org,Highline,left-center,high,usa,mostly free,magazine,medium traffic,high credibility
+272,https://www.hindustantimes.com/,Hindustan Times,left-center,mixed,india (142/180 press freedom),,website,high traffic,medium credibility
+273,http://historynewsnetwork.org/,History News Network,left-center,high,usa (44/180 press freedom),,organization/foundation,medium traffic,high credibility
+274,https://www.hitc.com/,HITC (Here is the City),left-center,mostly factual,united kingdom,mostly free,website,high traffic,high credibility
+275,https://www.hollywoodreporter.com/,Hollywood Reporter,,high,usa,,,,
+276,https://www.civilbeat.org,Honolulu Civil Beat,,high,usa,,,,
+277,https://www.staradvertiser.com/,Honolulu Star-Advertiser,left-center,high,usa,mostly free,newspaper,high traffic,high credibility
+278,https://www.hotnews.ro/,HotNews Romania,left-center,high,romania,moderate freedom,website,high traffic,high credibility
+279,https://www.houstonchronicle.com/,Houston Chronicle,left-center,high,usa,moderate freedom,website,high traffic,high credibility
+280,https://www.hrw.org/,Human Rights Watch,,high,usa,,,,
+281,https://www.humanium.org,Humanium,left-center,high,switzerland,excellent,organization/foundation,medium traffic,high credibility
+282,https://www.icenews.is/,IceNews,left-center,mostly factual,iceland,mostly free,newspaper,minimal traffic,medium credibility
+283,https://www.idahopress.com/,Idaho Press-Tribune,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+284,http://ifamericaknew.org/,If Americans Knew,,high,usa,,,,
+285,https://www.iflscience.com/,IFLScience,left-center,high,united kingdom (33/180 press freedom),,website,high traffic,high credibility
+286,https://independentaustralia.net/,Independent Australia,,high,australia,,,,
+287,www.index.hr,Index.hr – Croatia,left-center,high,croatia,moderate freedom,website,high traffic,high credibility
+288,https://inews.co.uk/,iNews UK,left-center,high,united kingdom (33/180 press freedom),,newspaper,high traffic,high credibility
+289,https://www.infobae.com/,Infobae,left-center,high,argentina,mostly free,website,high traffic,high credibility
+290,https://www.inquisitr.com/news/,Inquisitr,,mixed,usa,,,,
+291,https://www.insideedition.com,Inside Edition,left-center,high,usa (44/180 press freedom),,magazine,medium traffic,high credibility
+292,https://www.insidehighered.com/,Inside Higher Ed,,high,usa,,,,
+293,https://www.insidephilanthropy.com,Inside Philanthropy,,high,usa,,,,
+294,https://www.insider.com/,Insider.com Bias,left-center,high,usa,,website,high traffic,high credibility
+295,https://insideclimatenews.org/,InsideClimate News,,high,usa,,,,
+296,https://www.instituteforgovernment.org.uk/,Institute for Government,left-center,high,united kingdom,mostly free,organization/foundation,medium traffic,high credibility
+297,https://imeu.org,Institute for Middle East Understanding (IMEU),left-center,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+298,https://itep.org/,Institute on Taxation and Economic Policy (ITEP),left-center,high,usa,mostly free,website,medium traffic,high credibility
+299,https://www.ibtimes.com/,International Business Times,left-center,mixed,usa (44/180 press freedom),,website,medium traffic,medium credibility
+300,https://www.icrw.org/,International Center for Research on Women,,high,usa,,,,
+301,https://www.crisisgroup.org/,International Crisis Group,,very high,belgium,,,,
+302,http://www.interpretermag.com/,(The) Interpreter Magazine,left-center,high,usa,mostly free,website,minimal traffic,high credibility
+303,https://www.inverse.com,Inverse,left-center,high,usa,mostly free,website,high traffic,high credibility
+304,https://www.press-citizen.com/,Iowa City Press-Citizen,left-center,high,usa,,newspaper,medium traffic,high credibility
+305,https://ipolitics.ca/,iPolitics,,high,canada,,,,
+306,https://www.israel21c.org,ISRAEL21c,left-center,high,israel,moderate freedom,website,medium traffic,high credibility
+307,https://www.thenewhumanitarian.org/,The New Humanitarian,,high,switzerland,,,,
+308,http://www.jacksonfreepress.com,Jackson Free Press,,high,usa,,,,
+309,https://jalopnik.com/,Jalopnik,left-center,high,usa,mostly free,website,high traffic,high credibility
+310,https://www.japantoday.com/,Japan Today,,high,japan,,,,
+311,http://www.jihadica.com/,Jihadica,,high,usa,,,,
+312,https://jointcenter.org/,Joint Center for Political and Economic Studies,,high,usa,,,,
+313,http://www.helvidius.org/,Journal of Politics and Society,,very high,usa,,,,
+314,http://daily.jstor.org/,JStor Daily,,high,usa,,,,
+315,https://www.justsecurity.org/,Just Security,left-center,high,usa (45/180 press freedom),,organization/foundation,medium traffic,high credibility
+316,http://kff.org/,Kaiser Family Foundation,left-center,high,usa (44/180 press freedom),,organization/foundation,medium traffic,high credibility
+317,https://khn.org/,Kaiser Health News,left-center,high,usa,mostly free,organization/foundation,medium traffic,high credibility
+318,https://www.kansascity.com,Kansas City Star,,high,usa,,,,
+319,https://denver.cbslocal.com/,KCNC-TV – CBS Denver,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+320,https://www.cbsnews.com/pittsburgh/,KDKA – CBS Pittsburgh,left-center,high,usa,mostly free,website,high traffic,high credibility
+321,https://www.kenoshanews.com/,Kenosha News,left-center,high,usa,,newspaper,medium traffic,high credibility
+322,https://abc30.com/,KFSN – ABC30 Fresno News,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+323,https://abc7news.com/,KGO – ABC7 News,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+324,https://www.knightfoundation.org/,Knight Foundation,,high,usa,,,,
+325,https://www.nbcdfw.com/,KNTV – NBC Bay Area,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+326,https://www.koco.com/,KOCO News 5,left-center,high,usa (44/180 press freedom),,tv station,medium traffic,high credibility
+327,https://kotaku.com,Kotaku,,high,usa,,,,
+328,https://sacramento.cbslocal.com/,KOVR – CBS Sacramento,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+329,https://kpic.com/,KPIC CBS 4,right-center,high,usa,mostly free,tv station,medium traffic,high credibility
+330,https://sanfrancisco.cbslocal.com/,KPIX – CBS San Francisco,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+331,https://www.kqed.org/,KQED San Francisco,left-center,high,usa,mostly free,radio station,medium traffic,high credibility
+332,https://abc13.com/,KTRK – ABC13 – Houston,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+333,https://www.cbsnews.com/dfw/,KTVT – Dallas – Fort Worth News,left-center,high,usa,mostly free,website,high traffic,high credibility
+334,https://www.idahopress.com/kuna/,Kuna Melba News,left-center,high,usa,mostly free,newspaper,minimal traffic,high credibility
+335,https://kuow.org/,KUOW NPR,,high,usa,,,,
+336,https://www.kurdistan24.net/,Kurdistan 24,left-center,mixed,usa (44/180 press freedom),,website,medium traffic,medium credibility
+337,https://kyivindependent.com/,Kyiv Independent,left-center,high,ukraine,moderate freedom,website,medium traffic,high credibility
+338,https://www.kyivpost.com/,Kyiv Post,left-center,mixed,ukraine,moderate freedom,newspaper,high traffic,medium credibility
+339,https://www.laconiadailysun.com/,Laconia Daily Sun,,high,usa,,,,
+340,www.ladepeche.fr,La Depeche du Midi,left-center,high,france,mostly free,newspaper,high traffic,high credibility
+341,https://www.theadvertiser.com/,Lafayette Daily Advertiser,left-center,high,usa,,newspaper,medium traffic,high credibility
+342,https://www.jconline.com/,Lafayette Journal & Courier,left-center,high,usa,,newspaper,medium traffic,high credibility
+343,https://www.lajuntatribunedemocrat.com/,La Junta Tribune-Democrat,left-center,high,usa,,newspaper,minimal traffic,high credibility
+344,http://www.lapresse.ca/,La Presse,left-center,high,canada,mostly free,newspaper,high traffic,high credibility
+345,https://www.repubblica.it/,La Repubblica,left-center,high,italy,moderate freedom,newspaper,high traffic,high credibility
+346,https://www.lastampa.it/,La Stampa,left-center,high,italy,moderate freedom,newspaper,high traffic,high credibility
+347,https://www.latimes.com/,LA Times (Los Angeles Times),left-center,high,usa,,newspaper,high traffic,high credibility
+348,https://lasvegassun.com,Las Vegas Sun,,high,usa,,,,
+349,https://www.latintimes.com/,Latin Times,left-center,high,usa (44/180 press freedom),,website,medium traffic,high credibility
+350,https://www.latintimes.com/,Jury Selection Begins for Brother Charged in Ohio's Pike County Massacre,left-center,high,usa (44/180 press freedom),,website,medium traffic,high credibility
+351,http://www.leftjustified.com/,Left Justified,left-center,mixed,usa (45/180 press freedom),,website,minimal traffic,medium credibility
+352,https://www.lemonde.fr/,Le Monde Bias,left-center,high,usa,mostly free,newspaper,high traffic,high credibility
+353,https://lethbridgeherald.com/,Lethbridge Herald,left-center,high,usa,mostly free,newspaper,high traffic,high credibility
+354,http://www.kentucky.com/,Lexington Herald Leader,left-center,high,usa (45/180 press freedom),,newspaper,medium traffic,high credibility
+355,https://lifehacker.com/,Lifehacker,left-center,mostly factual,usa (44/180 press freedom),,website,high traffic,high credibility
+356,https://www.lincolncourier.com/,Lincoln Courier,left-center,high,usa,,newspaper,minimal traffic,high credibility
+357,https://www.lamag.com/,Los Angeles Magazine,,high,usa,,,,
+358,https://www.macleans.ca,Maclean’s Magazine,left-center,high,canada (14/180 press freedom),,magazine,medium traffic,high credibility
+359,https://mainichi.jp,Mainichi Shimbun,,high,japan,,,,
+360,https://www.malaysiakini.com/,Malaysiakini,left-center,mostly factual,malaysia,limited freedom,website,high traffic,high credibility
+361,https://mb.com.ph,Manila Bulletin,left-center,mixed,philippines,limited freedom,newspaper,high traffic,medium credibility
+362,http://maplight.org/,Maplight,,high,usa,,,,
+363,https://www.reporter-times.com/,Martinsville Reporter-Times,left-center,high,usa,,newspaper,minimal traffic,high credibility
+364,http://www.mcclatchydc.com/,McClatchyDC,,high,usa,,,,
+365,https://www.mcdonoughvoice.com/,McDonough County Voice,left-center,high,usa,,newspaper,minimal traffic,high credibility
+366,https://www.mediafiledc.com/,MediaFile,left-center,high,usa (44/180 press freedom),,newspaper,minimal traffic,high credibility
+367,https://www.mediapart.fr/,Mediapart,left-center,high,france,mostly free,website,high traffic,high credibility
+368,https://medium.com/,Medium,left-center,mixed,usa (44/180 press freedom),,website,high traffic,medium credibility
+369,https://www.menshealth.com/,Men’s Health,left-center,mostly factual,usa,,magazine,high traffic,high credibility
+370,https://www.metro.us/,Metro (Philadelphia),left-center,high,usa (45/180 press freedom),,newspaper,minimal traffic,high credibility
+371,http://metro.co.uk/,Metro UK,left-center,mixed,united kingdom (33/180 press freedom),,newspaper,high traffic,medium credibility
+372,https://www.nhregister.com/,New Haven Register,,high,usa,,,,
+373,http://mexiconewsdaily.com/,Mexico Daily News,,high,mexico,,,,
+374,https://www.miamiherald.com,Miami Herald,left-center,high,usa,,newspaper,high traffic,high credibility
+375,https://mic.com/,Mic,,high,usa,,,,
+376,https://www.middleeasteye.net/,Middle East Eye,left-center,mostly factual,united kingdom,,website,medium traffic,high credibility
+377,https://www.migrationpolicy.org,Migration Policy Institute,,high,usa,,,,
+378,https://www.unionrecorder.com/,Milledgeville Union-Recorder,left-center,high,usa,mostly free,newspaper,minimal traffic,high credibility
+379,https://www.thestar.com/local-milton/,Milton Canadian Champion,left-center,high,canada,mostly free,newspaper,minimal traffic,high credibility
+380,https://www.jsonline.com/,Milwaukee Journal-Sentinel,left-center,high,usa (44/180 press freedom),,newspaper,medium traffic,high credibility
+381,http://www.startribune.com/,Minneapolis Star Tribune,left-center,high,usa (44/180 press freedom),,newspaper,high traffic,high credibility
+382,https://www.mprnews.org/,Minnesota Public Radio (MPR),,high,usa,,,,
+383,https://www.minnpost.com,MinnPost,,high,usa,,,,
+384,http://www.mintpressnews.com/,Mint Press News,,mixed,usa,,,,
+385,https://mississippitoday.org/,Mississippi Today,left-center,high,usa,,organization/foundation,medium traffic,high credibility
+386,https://www.moneytalksnews.com/,Money Talks News,left-center,high,usa,,website,medium traffic,high credibility
+387,https://news.mongabay.com,Mongabay,left-center,high,usa,mostly free,organization/foundation,medium traffic,high credibility
+388,https://www.montgomeryadvertiser.com/,Montgomery Advertiser,left-center,high,usa,,newspaper,medium traffic,high credibility
+389,https://www.morningbrew.com/,Morning Brew,left-center,high,usa,,website,high traffic,high credibility
+390,https://themoscowtimes.com/,Moscow Times,left-center,high,netherlands,excellent,website,medium traffic,high credibility
+391,https://www.motherjones.com/,Mother Jones,left-center,high,usa (45/180 press freedom),,magazine,high traffic,high credibility
+392,https://www.mnn.com/,Mother Nature Network,left-center,high,usa (45/180 press freedom),,magazine,high traffic,high credibility
+393, https://mothership.sg,Mothership,,mixed,singapore,,,,
+394,https://www.moultrieobserver.com/,Moultrie Observer,left-center,high,usa,mostly free,newspaper,minimal traffic,high credibility
+395,https://www.msn.com/,MSN.com (MSN News),left-center,high,usa (45/180 press freedom),,news agency,high traffic,high credibility
+396,https://www.thestarpress.com/,Muncie Star Press,left-center,high,usa,,newspaper,medium traffic,high credibility
+397,https://www.mycentraljersey.com/,MyCentralJersey.com,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+398,http://www.nakedcapitalism.com/,Naked Capitalism,,high,usa,,,,
+399,https://www.naplesnews.com,Naples Daily News,,high,usa,,,,
+400,https://transequality.org,National Center for Transgender Equality (NCTE),,high,usa,,,,
+401,http://natmonitor.com/,National Monitor,left-center,high,usa (44/180 press freedom),,website,minimal traffic,high credibility
+402,https://www.nationalnewswatch.com/,National Newswatch,left-center,mostly factual,canada (14/180 press freedom),,website,medium traffic,high credibility
+403,https://www.nationalobserver.com/,National Observer (Canada),,high,canada,,,,
+404,http://www.youthrights.org/,National Youth Rights Association,left-center,high,usa (44/180 press freedom),,organization/foundation,minimal traffic,high credibility
+405,https://resourcegovernance.org/,Natural Resource Governance Institute,,high,usa,,,,
+406,https://www.nature.org,Nature Conservancy,,high,usa,,,,
+407,https://www.nbcdfw.com/,NBC 5 Dallas-Fort Worth – KXAS,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+408,https://www.nbcphiladelphia.com/,NBC 10 Philadelphia – WCAU,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+409,https://www.nbcchicago.com/,NBC Chicago – WMAQ,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+410,https://www.nbclosangeles.com/,NBC Los Angeles – KNBC,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+411,http://www.nbcnews.com/,NBC News,left-center,high,usa,,tv station,high traffic,high credibility
+412,https://www.nbcnewyork.com,NBCNewYork.com,,high,usa,,,,
+413,https://www.ndtv.com/,NDTV,left-center,mixed,india (142/180 press freedom),,tv station,high traffic,medium credibility
+414,https://www.newamerica.org/,New America,left-center,high,usa,mostly free,organization/foundation,medium traffic,high credibility
+415,https://www.ncnewsonline.com/,New Castle News,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+416,https://www.neweurope.eu/,New Europe,,high,belgium,,,,
+417,https://newleftreview.org/,New Left Review,,high,united kingdom,,,,
+418,https://newmatilda.com/,New Matilda,,high,australia,,,,
+419,https://newmoderate.com/,New Moderate,,mixed,usa,,,,
+420,https://vancouver.citynews.ca/,CityNews Vancouver,least biased,high,canada,,radio station,high traffic,high credibility
+421,https://www.newscentermaine.com/,NewsCenterMaine.com,left-center,high,usa,mostly free,tv station,medium traffic,high credibility
+422,https://www.nydailynews.com/,New York Daily News,left-center,high,usa (45/180 press freedom),,newspaper,high traffic,high credibility
+423,https://www.nytimes.com/,New York Times,left-center,high,usa,mostly free,newspaper,high traffic,high credibility
+424,https://www.newsandguts.com/,News and Guts,left-center,mostly factual,usa (44/180 press freedom),,website,medium traffic,high credibility
+425,https://www.newsday.com/,Newsday,,high,usa,,,,
+426,https://www.newser.com/,Newser,left-center,high,usa,mostly free,website,high traffic,high credibility
+427,https://www.newsweek.com/,Newsweek,left-center,high,usa,mostly free,magazine,high traffic,high credibility
+428,https://www.newsy.com/,Newsy,left-center,high,usa (45/180 press freedom),,tv station,medium traffic,high credibility
+429,https://www3.nhk.or.jp/nhkworld/,NHK World-Japan,,high,japan,,,,
+430,https://www.niagara-gazette.com/,Niagara Gazette,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+431,https://www.niemanlab.org/,Nieman Journalism Lab,left-center,high,usa,mostly free,organization/foundation,medium traffic,high credibility
+432,https://niskanencenter.org,Niskanen Center,left-center,high,usa (44/180 press freedom),,organization/foundation,mediumtraffic,high credibility
+433,https://www.norwichbulletin.com/,Norwich Bulletin,left-center,high,usa,,newspaper,medium traffic,high credibility
+434,https://www.novinky.cz/,Novinky.cz (Pravo),left-center,mostly factual,czech republic,mostly free,website,high traffic,high credibility
+435,https://www.npr.org/,NPR (National Public Radio),left-center,high,usa,mostly free,radio station,high traffic,high credibility
+436,https://www.ocala.com/,Ocala StarBanner,left-center,high,usa,,newspaper,medium traffic,high credibility
+437,https://occupyindependents.com/,Occupy Independents,,mixed,usa,,,,
+438,http://www.ocweekly.com/,OC Weekly,,mixed,usa,,,,
+439,https://www.oilandwaterdontmix.org/,Oil and Water Don’t Mix,,mixed,usa,,,,
+440,https://www.oneindia.com/,OneIndia,left-center,mixed,india,limited freedom,website,high traffic,medium credibility
+441,https://www.dailyworld.com/,Opelousas Daily World,left-center,high,usa,,newspaper,minimal traffic,high credibility
+442,https://www.opendemocracy.net/,openDemocracy,,high,united kingdom,,,,
+443,https://www.openthegovernment.org/,Open the Government,left-center,mostly factual,usa (45/180 press freedom),,organization/foundation,minimal traffic,medium credibility
+444,https://www.orlandosentinel.com,Orlando Sentinel,,high,usa,,,,
+445,https://ourworldindata.org,Our World In Data,left-center,high,united kingdom (33/180 press freedom),,website,high traffic,high credibility
+446,https://www.outsidethebeltway.com/,Outside The Beltway,left-center,high,usa (44/180 press freedom),,website,minimal traffic,high credibility
+447,https://www.ozy.com/,Ozy Media,left-center,high,usa (44/180 press freedom),,website,medium traffic,high credibility
+448,https://psmag.com/,Pacific Standard Magazine,,high,usa,,,,
+449,https://www.palmbeachdailynews.com/,Palm Beach Daily News,,high,usa,,,,
+450,https://www.newsherald.com/,Panama City News-Herald,left-center,high,usa,,newspaper,medium traffic,high credibility
+451,https://www.parrysound.com/parrysound-news/,Parry Sound Beacon Star,left-center,high,canada,mostly free,newspaper,minimal traffic,high credibility
+452,https://patrioticmillionaires.org,Patriotic Millionaires,left-center,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+453,https://www.pbs.org/newshour/,PBS NewsHour,left-center,high,usa (45/180 press freedom),,tv station,high traffic,high credibility
+454,https://www.pekintimes.com/,Pekin Daily Times,left-center,high,usa,,newspaper,minimal traffic,high credibility
+455,https://www.inquirer.com/,Philadelphia Inquirer,left-center,high,usa (44/180 press freedom),,newspaper,high traffic,high credibility
+456,https://www.phillytrib.com/,Philadelphia Tribune,,high,usa,,,,
+457,https://www.inquirer.net/,Philippine Daily Inquirer,,mostly factual,philippines,,,,
+458,https://www.phillyvoice.com/,Philly Voice,left-center,high,usa,mostly free,website,medium traffic,high credibility
+459,http://www.phoenixnewtimes.com/,Phoenix New Times,,high,usa,,,,
+460,http://politicalcritique.org/,Political Critique,,high,poland,,,,
+461,https://www.politico.com,Politico,left-center,high,usa,,website,high traffic,high credibility
+462, http://politicsthatwork.com/,Politics That Work,,mostly factual,usa,,,,
+463,https://www.politifact.com/,Politifact,left-center,high,usa,,website,high traffic,high credibility
+464,https://www.polygon.com/,Polygon,,high,usa,,,,
+465,https://www.pontiacdailyleader.com/,Pontiac Daily Leader,left-center,high,usa,,newspaper,minimal traffic,high credibility
+466,http://www.populationconnection.org,Population Connection,left,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+467,https://www.pressherald.com/,Portland Press-Herald,,high,usa,,,,
+468,https://pamplinmedia.com,Portland Tribune,,high,usa,,,,
+469,https://www.positive.news,Positive News,left-center,high,united kingdom (33/180 press freedom),,magazine,minimal traffic,high credibility
+470,https://theworld.org/,The World from PRX,,very-high,usa,,,,
+471,https://www.private-eye.co.uk/,Private Eye,,mixed,united kingdom,,,,
+472,https://www.hjnews.com/preston/,Preston Citizen,left-center,high,usa,mostly free,newspaper,minimal traffic,high credibility
+473,https://www.pogo.org/,Project on Government Oversight,,high,usa,,,,
+474,https://www.project-syndicate.org/,Project Syndicate,,high,czech republic,,,,
+475,https://www.propublica.org/,Propublica,,high,usa,,,,
+476,https://www.prospectmagazine.co.uk/,Prospect Magazine,,high,united kingdom,,,,
+477,https://www.protocol.com/,Protocol,left-center,high,usa,mostly free,website,medium traffic,high credibility
+478,https://www.providencejournal.com/,The Providence Journal,,high,usa,,,,
+479,https://www.citizen.org/,Public Citizen,,high,usa,,,,
+480,https://www.publico.es/,Publico,left-center,high,spain,mostly free,website,high traffic,high credibility
+481,https://puck.news/,Puck.News,left-center,mostly factual,usa,,website,medium traffic,medium credibility
+482,https://www.chieftain.com/,Pueblo Chieftain,left-center,high,usa,,newspaper,medium traffic,high credibility
+483,https://qz.com/,Quartz,left-center,high,usa,,website,high traffic,high credibility
+484,https://www.rfa.org/,Radio Free Asia,,high,usa,,,,
+485,https://www.radiotelevisionmarti.com/,Radio Television Marti,left-center,mixed,usa,mostly free,radio/tv,medium traffic,medium credibility
+486,https://www.newsobserver.com/,Raleigh News and Observer,,high,usa,,,,
+487,https://www.rappler.com/,Rappler,left-center,high,philippines,,website,high traffic,high credibility
+488,https://rationalwiki.org/wiki/Main_Page,RationalWiki,,high,usa,,,,
+489,https://relevantmagazine.com,Relevant Magazine,left-center,high,usa (44/180 press freedom),,magazine,medium traffic,high credibility
+490,http://religionnews.com,Religion News Service (RNS),left-center,high,usa (44/180 press freedom),,organization/foundation,medium traffic,high credibility
+491,https://www.rgj.com,Reno Gazette Journal,,high,usa,,,,
+492,https://represent.us/,Represent.Us,,high,usa,,,,
+493,https://www.revealnews.org/,Reveal – Center for Investigative Reporting,,high,usa,,,,
+494,https://www.pal-item.com/,Richmond Palladium-Item,left-center,high,usa,,newspaper,minimal traffic,high credibility
+495,https://www.ridgecrestca.com/,Ridgecrest Daily Independent,left-center,high,usa,,newspaper,minimal traffic,high credibility
+496,https://militarist-monitor.org/,Militarist Monitor,left-center,high,usa,,newspaper,minimal traffic,high credibility
+497,https://www.rocketnews.com/,RocketNews,left-center,mixed,usa,,website,minimal traffic,medium credibility
+498,https://www.rrstar.com/,Rockford Register Star,left-center,high,usa,,newspaper,medium traffic,high credibility
+499,https://www.heraldonline.com/,Rock Hill Herald,,high,usa,,,,
+500,https://rooseveltinstitute.org/,Roosevelt Institute,,high,usa,,,,
+501,https://www.sacbee.com,Sacramento Bee,left-center,high,usa (44/180 press freedom),,newspaper,high traffic,high credibility
+502,https://www.salina.com/,Salina Journal,left-center,high,usa,,newspaper,medium traffic,high credibility
+503,https://www.sltrib.com/,Salt Lake Tribune,,high,usa,,,,
+504,https://www.expressnews.com/,San Antonio Express-News,,high,usa,,,,
+505,https://www.sandiegoreader.com,San Diego Reader,,high,usa,,,,
+506,https://www.sfchronicle.com/,San Francisco Chronicle,left-center,high,usa (44/180 press freedom),,newspaper,high traffic,high credibility
+507,http://www.sfexaminer.com,San Francisco Examiner,,high,usa,,,,
+508,https://www.mercurynews.com/,San Jose Mercury News,left-center,high,usa (44/180 press freedom),,newspaper,high traffic,high credibility
+509,https://www.sanluisobispo.com/,San Luis Obispo Tribune,,high,usa,,,,
+510,http://www.independent.com/,Santa Barbara Independent,left-center,high,usa (44/180 press freedom),,website,medium traffic,high credibility
+511,https://www.sapiens.org,Sapiens,,high,usa,,,,
+512,saudigazette.com.sa,Saudi Gazette,left-center (by saudi standards),mixed,saudi arabia (170/180 press freedom),,newspaper,medium traffic,medium credibility
+513,https://sciencing.com/,Sciencing,left-center,high,usa (44/180 press freedom),,website,high traffic,high credibility
+514,https://www.scoopwhoop.com,ScoopWhoop,,mixed,india,,,,
+515,https://scroll.in/,Scroll.in,,mostly factual,india,,,,
+516,https://www.seattlepi.com/,Seattle Post-Intelligencer,,high,usa,,,,
+517,http://www.seattletimes.com/,Seattle Times,left-center,high,usa (44/180 press freedom),,newspaper,high traffic,high credibility
+518,https://www.self.com/,Self Magazine,left-center,mostly factual,usa,mostly free,website,high traffic,high credibility
+519,https://www.sentencingproject.org/,Sentencing Project,left-center,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+520,https://www.sfgate.com/,SFGate,left-center,high,usa (44/180 press freedom),,website,high traffic,high credibility
+521,https://www.snopes.com/,Snopes,left-center,mostly factual,usa,,website,high traffic,high credibility
+522,https://sojo.net/,Sojourners (Soho),left-center,high,usa (45/180 press freedom),,organization/foundation,medium traffic,high credibility
+523,https://www.sootoday.com/,SooToday.com,left-center,high,canada (14/180 press freedom),,website,medium traffic,high credibility
+524,https://www.scmp.com,South China Morning Post,left-center,mixed,hong kong,,newspaper,high traffic,medium credibility
+525,https://www.sbs.com.au/,Special Broadcasting Service (SBS),left-center,high,australia,,tv station,high traffic,high credibility
+526,https://www.spiegel.de/,Spiegel Online (Der Spiegel),left-center,high,germany (11/180 press freedom),,website,high traffic,high credibility
+527,https://www.spin.com/,Spin (Magazine),left-center,high,usa,,website,medium traffic,high credibility
+528,https://www.news-leader.com/,Springfield News-Leader,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+529,https://www.staugustine.com/,St. Augustine Record,left-center,high,usa,,newspaper,medium traffic,high credibility
+530,https://www.stltoday.com/,St. Louis Post-Dispatch,,high,usa,,,,
+531,https://www.stamfordadvocate.com/,Stamford Advocate,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+532,https://www.nj.com/starledger/,Star-Ledger,,high,usa,,,,
+533,https://www.statnews.com/,Stat (News),left-center,high,usa (44/180 press freedom),,website,high traffic,high credibility
+534,https://www.newsaegis.com/,St. Clair News-Aegis,left-center,high,usa,mostly free,newspaper,minimal traffic,high credibility
+535,https://stepfeed.com,StepFeed,left-center,mixed,united arab emirates (132/180 press freedom),,website,medium traffic,medium credibility
+536,https://www.stopfake.org/,StopFake,left-center,high,ukraine,limited freedom,website,minimal traffic,high credibility
+537,https://www.stuff.co.nz/,Stuff,,high,new zealand,,,,
+538,https://www.agriculture.com/,Successful Farming Magazine,left-center,high,usa,mostly free,magazine,medium traffic,high credibility
+539,https://sunlightfoundation.com/,Sunlight Foundation,,high,usa,,,,
+540,https://www.swissinfo.ch/,SWI – Swissinfo.ch,,high,switzerland,,,,
+541,https://www.syriahr.com/,Syrian Observatory for Human Rights (SOHR),left-center,mostly factual,usa (45/180 press freedom),,organization/foundation,medium traffic,high credibility
+542,https://www.taiwannews.com.tw/,Taiwan News,,mostly factual,taiwan,,,,
+543,https://www.tampabay.com,Tampa Bay Times,left-center,high,usa (44/180 press freedom),,newspaper,high traffic,high credibility
+544,https://tarbell.org,Tarbell,,high,usa,,,,
+545,https://taskandpurpose.com/,Task and Purpose,left-center,mostly factual,usa,,website,high traffic,high credibility
+546,https://www.taxjustice.net/,Tax Justice Network,left-center,high,united kingdom (33/180 press freedom),,organization/foundation,minimal traffic,high credibility
+547,https://www.taxpolicycenter.org/,Tax Policy Center,left-center,high,usa (44/180 press freedom),,organization/foundation,medium traffic,high credibility
+548,https://www.tcpalm.com/,TCPalm – Treasure Coast News,left-center,high,usa,,newspaper,medium traffic,high credibility
+549,https://techcrunch.com,TechCrunch,left-center,high,usa (44/180 press freedom),,website,high traffic,high credibility
+550,https://www.techdirt.com,Techdirt,,high,usa,,,,
+551,https://www.texasmonthly.com,Texas Monthly,left-center,high,usa (44/180 press freedom),,magazine,medium traffic,high credibility
+552,https://www.texastribune.org/,Texas Tribune,left-center,high,usa (44/180 press freedom),,organization/foundation,high traffic,high credibility
+553,http://www.theage.com.au/,The Age (Australia),left-center,high,australia,,newspaper,high traffic,high credibility
+554,http://www.asahi.com/ajw,The Asahi Shimbun,,high,japan,,,,
+555,https://www.app.com,The Asbury Park Press,,high,usa,,,,
+556,https://www.augustachronicle.com/,The Augusta Chronicle,left-center,high,usa (44/180 press freedom),,newspaper,medium traffic,high credibility
+557,https://www.belfercenter.org/,The Belfer Center for Science and International Affairs,left-center,high,usa,mostly free,organization/foundation,medium traffic,high credibility
+558,https://www.thebipartisanpress.com,The Bipartisan Press,,high,usa,,,,
+559,https://myrgv.com/,The Brownsville Herald,,high,usa,,,,
+560,https://www.thebureauinvestigates.com/,The Bureau of Investigative Journalism,left-center,high,united kingdom (35/180 press freedom),,organization/foundation,medium traffic,high credibility
+561,http://cepr.net,The Center for Economic and Policy Research,,high,usa,,,,
+562,https://tcf.org/,The Century Foundation,,high,usa,,,,
+563,https://chinapost.nownews.com/,The China Post,,mostly factual,taiwan,,,,
+564,http://www.thechristianleft.org/,The Christian Left,,mixed,usa,,,,
+565,https://www.chronicle.com/,The Chronicle of Higher Education,,high,usa,,,,
+566,https://www.thecitizen.org.au,The Citizen (Australia),left-center,high,australia (26/180 press freedom),,organization/foundation,minimal traffic,high credibility
+567,https://thecity.nyc/,The City,left-center,high,usa,mostly free,organization/foundation,medium traffic,high credibility
+568,https://www.coloradoan.com/,The Coloradoan,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+569,https://coloradosun.com/,The Colorado Sun,left-center,high,usa,mostly free,website,medium traffic,high credibility
+570,https://canadians.org,The Council of Canadians,left-center,high,canada,mostly free,organization/foundation,minimal traffic,high credibility
+571,https://www.courier-journal.com/,Louisville Courier-Journal,left-center,high,usa (45/180 press freedom),,newspaper,medium traffic,high credibility
+572,http://www.daltondailycitizen.com/,The Daily Citizen (Dalton),left-center,high,usa (44/180 press freedom),,newspaper,medium traffic,high credibility
+573,http://www.dailyclimate.org/,The Daily Climate,,high,usa,,,,
+574,https://dailyhive.com/,Daily Hive,left-center,mostly factual,canada (14/180 press freedom),,website,high traffic,high credibility
+575,https://www.thedailystar.com/,The Daily Star,left-center,high,usa,mostly free,newspaper,minimal traffic,high credibility
+576,https://www.dailytarheel.com/,The Daily Tarheel,left-center,high,usa (44/180 press freedom),,newspaper,medium traffic,high credibility
+577,https://www.theday.com/,The Day (New London),left-center,high,usa (44/180 press freedom),,newspaper,medium traffic,high credibility
+578,https://www.dominionpost.com/,The Dominion Post,left-center,high,usa,mostly free,newspaper,minimal traffic,high credibility
+579,https://ecfr.eu/,The European Council on Foreign Relations (ECFR),left-center,high,germany (13/180 press freedom),,organization/foundation,medium traffic,high credibility
+580,https://www.lehighvalleylive.com,The Express-Times (Lehigh Valley),,high,usa,,,,
+581,https://forward.com/,The Forward,,high,usa,,,,
+582,https://www.readfrontier.org,The Frontier,,high,usa,,,,
+583,https://thefulcrum.us/,The Fulcrum,left-center,high,usa,,website,minimal traffic,high credibility
+584,https://www.thegardenisland.com/,The Garden Island,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+585,https://www.heraldscotland.com/,The Herald – Scotland,left-center,high,united kingdom,mostly free,newspaper,high traffic,high credibility
+586,https://www.theguardian.com,The Guardian,left-center,mixed,united kingdom,,newspaper,high traffic,medium credibility
+587,https://www.thehawkeye.com/,The Hawk Eye,left-center,high,usa,,newspaper,medium traffic,high credibility
+588,https://www.heraldnet.com/,The Herald (Everett),left-center,high,usa (44/180 press freedom),,newspaper,medium traffic,high credibility
+589,http://thehilltalk.com,The Hill Talk,,high,usa,,,,
+590,https://www.hilltimes.com/,The Hill Times,left-center,high,canada,,newspaper,medium traffic,high credibility
+591,https://www.thehindu.com/,The Hindu,,mostly factual,india,,,,
+592,https://thehumanist.com/,The Humanist Magazine,,high,usa,,,,
+593,https://www.hutchnews.com/,The Hutchinson News,left-center,high,usa,,newspaper,medium traffic,high credibility
+594,https://www.independent.co.uk/us,The Independent UK,left-center,mixed,united kingdom,,newspaper,high traffic,medium credibility
+595,https://indianexpress.com/,The Indian Express,left-center,mixed,india (142/180 press freedom),,newspaper,high traffic,medium credibility
+596,https://theintercept.com/,The Intercept,left,mostly factual,usa (45/180 press freedom),,website,high traffic,high credibility
+597,www.irishexaminer.com,The Irish Examiner,left-center,mostly factual,ireland,excellent,newspaper,high traffic,high credibility
+598,http://www.irishtimes.com/,The Irish Times,left-center,high,ireland,,newspaper,high traffic,high credibility
+599,https://www.irrawaddy.com/,The Irrawaddy,left-center,high,thailand,limited freedom,website,medium traffic,high credibility
+600,https://www.thejakartapost.com/,The Jakarta Post,,mostly factual,indonesia,,,,
+601,https://www.thejournal.ie/,TheJournal.ie,,high,ireland,,,,
+602,https://www.lohud.com/,The Journal News,,high,usa,,,,
+603,https://www.koreatimes.co.kr/,The Korea Times,left-center,mostly factual,south korea,mostly free,newspaper,medium traffic,high credibility
+604,https://lincolnproject.us/,The Lincoln Project,left-center,mixed,usa,,organization/foundation,medium traffic,medium credibility
+605,https://www.thelist.com/,The List,left-center,mostly factual,usa,mostly free,website,high traffic,medium credibility
+606,https://www.thelocal.no/,The Local (Norway),,high,norway,,,,
+607,https://www.mauinews.com/,The Maui News,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+608,http://themoderatevoice.com/,The Moderate Voice,,high,usa,,,,
+609,https://www.fool.com/,The Motley Fool,left-center,high,usa,mostly free,website,high traffic,high credibility
+610,https://www.alaraby.co.uk/english,The New Arab,left-center,mostly factual,united kingdom(33/180 press freedom),,website,medium traffic,high credibility
+611,https://thenewtropic.com,The New Tropic,left-center,high,usa (44/180 press freedom),,website,minimal traffic,high credibility
+612,https://www.thenewstribune.com/,The News Tribune,,high,usa,,,,
+613,https://www.newstimes.com/,The News-Times (Danbury),,high,usa,,,,
+614,https://thenextweb.com,The Next Web,left-center,mostly factual,usa,mostly free,website,medium traffic,high credibility
+615,https://www.theguardian.com/observer,The Observer (UK),,mixed,united kingdom,,,,
+616,https://www.theodysseyonline.com,The Odyssey Online,left-center,mixed,usa (44/180 press freedom),,website,medium traffic,medium credibility
+617,https://www.theolympian.com/,The Olympian,left-center,high,usa (44/180 press freedom),,newspaper,medium traffic,high credibility
+618,https://www.palmbeachpost.com,The Palm Beach Post,,high,usa,,,,
+619,https://www.pennlive.com/,The Patriot-News (Pennlive.com),left-center,high,usa (44/180 press freedom),,newspaper,high traffic,high credibility
+620,http://www.cleveland.com/plaindealer/,The Plain Dealer,,high,usa,,,,
+621,https://www.pressdemocrat.com/,The Press Democrat,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+622,https://punchng.com/,The Punch (Nigeria),left-center,mixed,nigeria,limited freedom,newspaper,high traffic,medium credibility
+623,https://www.thequint.com/,The Quint,left-center,high,india (142/180 press freedom),,website,high traffic,high credibility
+624,https://www.northjersey.com/,The Record (New Jersey),,high,usa,,,,
+625,https://www.theringer.com,The Ringer,,high,usa,,,,
+626,http://www.santafenewmexican.com,The Santa Fe New Mexican,left-center,high,usa (44/180 press freedom),,newspaper,medium traffic,high credibility
+627,https://www.thesaturdaypaper.com.au/,The Saturday Paper,left-center,high,australia (25/180 press freedom),,newspaper,medium traffic,high credibility
+628,http://www.theskimm.com/,TheSkimm,left-center,high,usa (44/180 press freedom),,website,medium traffic,high credibility
+629, https://www.thestate.com/,The State (South Carolina),left-center,high,usa (44/180 press freedom),,newspaper,medium traffic,high credibility
+630,https://www.sj-r.com/,The State Journal-Register,left-center,high,usa,,newspaper,medium traffic,high credibility
+631,https://www.statepress.com,The State Press (Arizona),,high,usa,,,,
+632,http://thesunmagazine.org/,The Sun Magazine,,high,usa,,,,
+633,https://www.smh.com.au,The Sydney Morning Herald,left-center,high,australia,,newspaper,high traffic,high credibility
+634,https://thetab.com/,The Tab,left-center,high,united kingdom (33/180 press freedom),,website,medium traffic,high credibility
+635,https://www.thetrace.org,The Trace,left-center,high,usa (44/180 press freedom),,website,medium traffic,high credibility
+636,https://thetyee.ca/,The Tyee,left-center,high,canada,mostly free,organization/foundation,medium traffic,high credibility
+637,https://thevarsity.ca/,The Varsity,left-center,high,canada (14/180 press freedom),,newspaper,minimal traffic,high credibility
+638,https://www.theverge.com/,The Verge,left-center,high,usa (44/180 press freedom),,website,high traffic,high credibility
+639,https://www.pilotonline.com/,The Virginian-Pilot,left-center,high,usa (44/180 press freedom),,newspaper,medium traffic,high credibility
+640,https://www.theweek.co.uk,The Week UK,,high,united kingdom,,,,
+641,https://www.wilderness.org/,The Wilderness Society,,high,united kingdom,,,,
+642,https://thewire.in/,The Wire – India,,mostly factual,india,,,,
+643,https://www.thewrap.com,TheWrap,left-center,mixed,usa (44/180 press freedom),,website,high traffic,medium credibility
+644,https://www.timesenterprise.com/,Thomasville Times-Enterprise,left-center,high,usa,mostly free,newspaper,minimal traffic,high credibility
+645,https://trust.org/,Thomson Reuters Foundation,left-center,high,united kingdom,mostly free,organization/foundation,medium traffic,high credibility
+646,https://www.thrillist.com,Thrillist,,high,usa,,,,
+647,https://www.tiftongazette.com/,Tifton Gazette,left-center,high,usa,mostly free,newspaper,minimal traffic,high credibility
+648,https://time.com/,Time Magazine,left-center,high,usa (45/180 press freedom),,magazine,high traffic,high credibility
+649,https://www.timescolonist.com/,Times Colonist,,high,canada,,,,
+650,http://www.timesheadline.com,Times Headline,left-center,mixed,india (142/180 press freedom),,website,minimal traffic,medium credibility
+651,http://www.timesofisrael.com/,Times of Israel,left-center,high,israel (88/180 press freedom),,website,high traffic,high credibility
+652,https://www.nola.com/,The Times-Picayune,,high,usa,,,,
+653,https://www.tmz.com/,TMZ,left-center,mixed,usa (44/180 press freedom),,website,high traffic,low credibility
+654,https://www.today.com/,Today.com (NBC Today Show),left-center,mostly factual,usa,mostly free,tv station/website,high traffic,high credibility
+655,https://www.tomdispatch.com/,TomDispatch.com,,high,usa,,,,
+656,https://www.cjonline.com/,Topeka Capital-Journal,left-center,high,usa,,newspaper,medium traffic,high credibility
+657,https://www.thestar.com/,Toronto Star,left-center,high,canada,,newspaper,high traffic,high credibility
+658,http://truthbetold.news/,Truth Be Told,left-center,high,usa (45/180 press freedom),,organization/foundation,minimal traffic,high credibility
+659,https://www.tuscaloosanews.com/,Tuscaloosa News,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+660,https://www.tvanouvelles.ca/,TVA Nouvelles,left-center,mostly factual,canada,mostly free,tv station,high traffic,high credibility
+661,https://typemediacenter.org/,Type Media Center,,high,usa,,,,
+662,https://uawire.org/,UAWire,left-center,mixed,ukraine,limited freedom,website,minimal traffic,medium credibility
+663,https://undark.org,Undark,left-center,high,usa (44/180 press freedom),,magazine (digital),medium traffic,high credibility
+664,https://www.ucsusa.org,Union of Concerned Scientists,,mostly factual,usa,,,,
+665,https://www.uft.org/,United Federation of Teachers (UFT),left-center,high,usa (45/180 press freedom),,organization/foundation,minimal traffic,high credibility
+666,https://www.universitybusiness.com/,University Business,left-center,high,usa (44/180 press freedom),,website,minimal traffic,medium credibility
+667,https://www.pravda.com.ua/,Ukrayinska Pravda (The Ukrainian Truth ),left-center,mostly factual,ukraine,limited freedom,website,high traffic,high credibility
+668,https://www.urban.org/,Urban Institute,,high,usa,,,,
+669,https://www.usatoday.com,USA Today,left-center,mostly factual,usa,,newspaper,high traffic,high credibility
+670,https://www.usnews.com/,US News World Report,left-center,high,usa (45/180 press freedom),,magazine,high traffic,high credibility
+671,https://www.upr.org/,Utah Public Radio (UPR),left-center,high,usa (44/180 press freedom),,radio station,minimal traffic,high credibility
+672,https://www.uticaod.com,Utica Observer-Dispatch,,high,usa,,,,
+673,https://centerforpolitics.org/,UVA – Center for Politics,left-center,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+674,https://www.valdostadailytimes.com/,Valdosta Daily Times,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+675,https://variety.com/,Variety Magazine,left-center,high,usa,mostly free,magazine,high traffic,high credibility
+676,https://www.vcstar.com/,Ventura County Star,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+677,https://verafiles.org/,Vera Files,left-center,high,philippines (138/180 press freedom),,website,medium traffic,high credibility
+678,https://www.vibe.com/,Vibe,left-center,mixed,usa,,website,medium traffic,medium credibility
+679,https://www.vice.com/,Vice Media,left-center,mostly factual,usa (45/180 press freedom),,website,high traffic,high credibility
+680,https://www.victoriaadvocate.com/,Victoria Advocate,,high,usa,,,,
+681,https://www.victoriabuzz.com/,Victoria Buzz,left-center,high,canada,mostly free,website,medium traffic,high credibility
+682,https://www.vvdailypress.com/,Victorville Daily Press,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+683,https://www.virginiamercury.com,Virginia Mercury,,high,usa,,,,
+684,https://www.visaliatimesdelta.com/,Visalia Times-Delta,left-center,high,usa,,newspaper,medium traffic,high credibility
+685,https://www.vladtv.com/,VladTV,left-center,mixed,usa,,website,high traffic,medium credibility
+686,https://www.voiceofsandiego.org/,Voice of San Diego,,high,usa,,,,
+687,https://www.votevets.org/,VoteVets.org,left-center,mixed,usa,,organization/foundation,minimal traffic,medium credibility
+688,https://vtdigger.org/,VTDigger,left-center,high,usa,,website,medium traffic,high credibility
+689,http://www.vulture.com,Vulture,,high,usa,,,,
+690,https://www.walesonline.co.uk/,WalesOnline,,high,united kingdom,,,,
+691,https://wamu.org/,WAMU-FM,left-center,high,usa,mostly free,radio station,medium traffic,high credibility
+692,http://www.washingtonblade.com/,Washington Blade,,high,usa,,,,
+693,https://washingtonmonthly.com,Washington Monthly,left-center,high,usa (44/180 press freedom),,magazine,medium traffic,high credibility
+694,https://www.washingtonpost.com/,Washington Post,left-center,mostly factual,usa,mostly free,newspaper,high traffic,high credibility
+695,https://chicago.cbslocal.com/,WBBM CBS Chicago,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+696,https://www.nbcboston.com/,WBTS – NBC10 – Boston,left-center,high,usa,mostly free,tv station,medium traffic,high credibility
+697,https://minnesota.cbslocal.com/,WCCO – CBS Minnesota,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+698,https://www.westhawaiitoday.com/,West Hawaii Today,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+699,https://miami.cbslocal.com/,WFOR – CBS Miami,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+700,https://www.whitehouse.gov,Whitehouse.gov,left-center,mostly factual,usa (44/180 press freedom),,website,high traffic,high credibility
+701,https://www.wikileaks.org/,WikiLeaks,,mixed,iceland,,,,
+702,https://www.wired.com/,Wired Magazine,left-center,high,usa,,website,high traffic,high credibility
+703,https://www.wishtv.com/,WISH-TV,left-center,high,usa,,tv station,medium traffic,high credibility
+704,https://atlanta.cbslocal.com/,WJZ – CBS Baltimore,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+705,https://www.wnyc.org/,WNYC,,high,usa,,,,
+706,https://www.wilsoncenter.org/,Woodrow Wilson International Center for Scholars,,high,usa,,,,
+707,https://broadenimpact.com/world-policy/,World Policy Institute (Broaden),left-center,high,usa (44/180 press freedom),,organization/foundation,minimal traffic,high credibility
+708,https://www.worldcrunch.com/,WorldCrunch,,high,france,,,,
+709,https://www.weforum.org/,World Economic Forum,left-center,high,switzerland (10/180 press freedom),,organization/foundation,high traffic,high credibility
+710,https://www.worldpress.org/,World Press Review,left-center,mostly factual,usa (45/180 press freedom),,website,minimal traffic,medium credibility
+711,https://www.wri.org/,World Resources Institute (WRI),,high,usa,,,,
+712,https://6abc.com/,WPVI – Philadelphia – Action News,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+713,https://www.nbcwashington.com/,WRC-TV – NBC Washington,left center,high,usa,mostly free,tv station,medium traffic,high credibility
+714,https://wsvn.com,WSVN.com,,high,usa,,,,
+715,https://tampa.cbslocal.com/,WTOG – CBS Tampa,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+716,https://www.nbcmiami.com/,WTVJ – NBC 6 – Miami,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+717,https://atlanta.cbslocal.com/,WUPA – CBS Atlanta,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+718,https://detroit.cbslocal.com/,WWJ – CBS Detroit,left-center,high,usa,mostly free,tv station,high traffic,high credibility
+719,https://news.yahoo.com/,Yahoo News,left-center,high,usa,,website,high traffic,high credibility
+720,https://yaleglobal.yale.edu,YaleGlobal Online,,high,usa,,,,
+721,http://www.ynetnews.com/,YnetNews,left-center,high,israel (86/180 press freedom),,website,medium traffic,high credibility
+722,https://www.ydr.com/,York Daily Record,left-center,high,usa (45/180 press freedom),,newspaper,medium traffic,high credibility
+723,https://www.yorkdispatch.com,York Dispatch,,high,usa,,,,
+724,https://youthradio.org/,Youth Radio,,high,usa,,,,

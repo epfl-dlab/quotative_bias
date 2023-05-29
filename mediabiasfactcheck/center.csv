@@ -1,0 +1,900 @@
+,link,title,bias rating,factual reporting,country,press freedom rating,media type,traffic/popularity,mbfc credibility rating
+0,https://www.9news.com/,9News KUSA,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+1,https://www.nbc11news.com/,11 News – KKCO,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+2,https://www.12news.com/,12 News (KPNX),least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+3,https://www.wibw.com/,13 News – WIBW,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+4,https://www.wifr.com/,23WIFR News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+5,https://247wallst.com/,24/7 Wall St,least biased,high,usa,mostly free,website,medium traffic,high credibility
+6,https://www.24ur.com/,24ur.com,least biased,mostly factual,slovenia,moderate freedom,website,high traffic,high credibility
+7,https://www.38north.org,38 North,least biased,high,usa,mostly free,organization/foundation,medium traffic,high credibility
+8,https://www.audacy.com/1010wins,1010 Wins AM,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+9,https://join1440.com/,1440 Newsletter,least biased,high,usa,mostly free,website,medium traffic,high credibility
+10,https://abc7chicago.com/,ABC7Chicago.com,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+11,https://abc7ny.com/,ABC7 New York,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+12,https://www.abc12.com/,ABC12 News (WJRT),least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+13,https://news.abs-cbn.com/,ABS-CBN News,least biased,high,philippines,limited freedom,tv station,high traffic,high credibility
+14,https://www.actionnewsjax.com/,ActionNewsJax.com,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+15,https://www.adfontesmedia.com/,Ad Fontes Media,least biased,high,usa,mostly free,website,medium traffic,high credibility
+16,https://www.adweek.com/,Adweek,least biased,high,usa,mostly free,magazine,medium traffic,high credibility
+17,https://africacheck.org,Africa Check,least biased,very high,south africa,mostly free,website,medium traffic,high credibility
+18,https://www.agdaily.com/,AgDaily,least biased,high,usa,mostly free,website,minimal traffic,high credibility
+19,https://www.afp.com/en/home,AFP (Agence France Presse),least biased,high,france,mostly free,news agency,high traffic,high credibility
+20,http://www.ansa.it,Agenzia Nazionale Stampa Associata (ANSA),least biased,high,italy,moderate freedom,news agency,high traffic,high credibility
+21,https://www.agerpres.ro/english,Agerpres,least biased,high,romania,moderate freedom,news agency,medium traffic,high credibility
+22,https://www.agweb.com/,AgWeb,right-center,high,usa,mostly free,journal,medium traffic,high credibility
+23,https://www.airforcetimes.com/,Air Force Times,least biased,high,usa,,newspaper,medium traffic,high credibility
+24,https://airwars.org/,Airwars,least biased,high,united kingdom,,organization/foundation,minimal traffic,high credibility
+25,https://www.alreporter.com/,Alabama Political Reporter,least biased,high,usa,mostly free,website,medium traffic,high credibility
+26,https://democratherald.com/,Albany Democrat-Herald,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+27,https://www.ad.nl/,Algemeen Dagblad,least biased,high,netherlands,mostly free,newspaper,high traffic,high credibility
+28,https://allafrica.com,AllAfrica,least biased,high,south africa,mostly free,website,medium traffic,high credibility
+29,https://securingdemocracy.gmfus.org/,Alliance for Securing Democracy,least biased,high,usa,mostly free,organization/foundation,medium traffic,high credibility
+30,https://www.amarillo.com,Amarillo Globe-News,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+31,https://www.americanheritage.com,American Heritage,least biased,high,usa,mostly free,website,minimal traffic,high credibility
+32,https://www.americanpressinstitute.org,American Press Institute (API),least biased,very high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+33,https://news.amomama.com/,AmoMama,,mostly factual,cyprus,,,,
+34,https://www.adn.com/,Anchorage Daily News,least biased,high,usa,,newspaper,medium traffic,high credibility
+35,https://www.independentmail.com/,Anderson Independent Mail,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+36,https://arcdigital.media/,Arc Digital,,high,usa,,,,
+37,https://www.arirang.com/,Arirang,least biased,high,south korea,mostly free,tv station,high traffic,high credibility
+38,https://www.armytimes.com,Army Times,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+39,https://arstechnica.com,Ars Technica,least biased,high,usa,mostly free,website,high traffic,high credibility
+40,https://www.courier-tribune.com/,Asheboro Courier-Tribune,least biased,high,usa (44/180 press freedom),,website,minimal traffic,high credibility
+41,https://www.asiatimes.com,Asia Times,least biased,high,hong kong,,newspaper,medium traffic,high credibility
+42,https://www.summitdaily.com/,Aspen Times,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+43,https://www.athensmessenger.com/,Athens Messenger,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+44,https://www.atlasobscura.com/,Atlas Obscura,,high,usa,,,,
+45,https://auburnpub.com/,Auburn Citizen,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+46,https://www.aap.com.au/,Australian Associated Press (AAP),least biased,high,australia,,news agency,medium traffic,high credibility
+47,https://www.avenuenews.com/,Avenue News,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+48,https://www.azfamily.com/,azfamily.com,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+49,https://www.babnet.net/,Babnet Tunisia,least biased,mixed,tunisia,moderate freedom,website,medium traffic,medium credibility
+50,https://ballotpedia.org/Main_Page,Ballotpedia,least biased,very-high,usa,,organization/foundation,high traffic,high credibility
+51,https://beatricedailysun.com/,Beatrice Daily Sun,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+52,https://www.bnd.com/,Belleville News-Democrat,right-center,high,usa,mostly free,website,medium traffic,high credibility
+53,https://www.benzinga.com/,Benzinga,least biased,high,usa,mostly free,website,high traffic,high credibility
+54,bestlifeonline.com,BestLife,least biased,mostly factual,usa,mostly free,website,high traffic,high credibility
+55,https://www.bettergov.org/,Better Government Association,least biased,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+56,https://www.bignewsnetwork.com,Big News Network,least biased,mostly factual,united arab emirates,limited freedom,website,medium traffic,high credibility
+57,https://bigthink.com/,Big Think,least biased,high,usa,,website,medium traffic,high credibility
+58,http://sunherald.com,Biloxi Sun Herald,least biased,high,usa,,newspaper,medium traffic,high credibility
+59,https://www.biography.com/,Biography (A&E),least biased,high,usa,mostly free,website,high traffic,high credibility
+60,https://bismarcktribune.com/,Bismarck Tribune,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+61,https://us.blastingnews.com,Blasting News,least biased,high,united kingdom,mostly free,website,high traffic,high credibility
+62,https://www.bleepingcomputer.com,Bleeping Computer,least biased,high,usa,mostly free,website,high traffic,high credibility
+63,https://bnonews.com/,BNO News,least biased,high,netherlands,,news agency,medium traffic,high credibility
+64,https://www.borderreport.com/,BorderReport,least biased,high,usa,mostly free,website,medium traffic,high credibility
+65,https://www.bozemandailychronicle.com/,Bozeman Daily Chronicle,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+66,https://www.bridgemi.com/,Bridge Michigan,left-center,high,usa,,organization/foundation,medium traffic,high credibility
+67,https://bringmethenews.com/,Bring Me The News,least biased,high,usa,mostly free,website,medium traffic,high credibility
+68,https://heraldcourier.com/,Bristol Herald Courier,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+69,https://theeagle.com/,Bryan-College Station Eagle,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+70,https://www.buffalonews.com/,Buffalo News,least biased,high,usa,mostly free,newspaper,high traffic,high credibility
+71,https://www.bullshido.net/,Bullshido,least biased,high,usa,mostly free,website,minimal traffic,high credibility
+72,http://www.burnettcountysentinel.com,Burnett County Sentinel,,mostly factual,usa,,,,
+73,https://www.business2community.com/,Business 2 Community,least biased,mostly factual,usa,,website,minimal traffic,medium credibility
+74,https://www.c-span.org/,C-SPAN,least biased,very high,usa,,tv station,high traffic,high credibility
+75,https://www.somdnews.com/recorder/,Calvert Recorder,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+76,https://www.cpac.ca/en/,Cable Public Affairs Channel (CPAC),least biased,high,canada (14/180 press freedom),,tv station,minimal traffic,high credibility
+77,http://www.capecodtimes.com,Cape Cod Times,least biased,high,usa,,newspaper,medium traffic,high credibility
+78,https://www.capecoralbreeze.com/,Cape Coral Breeze,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+79,https://capitolfax.com,Capitol Fax,least biased,high,usa,,website,medium traffic,high credibility
+80,https://www.carrollconews.com/,Carroll County News,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+81,https://trib.com/,Casper Star-Tribune,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+82,https://www.castanet.net/,Castanet,least biased,high,canada,mostly free,website,high traffic,high credibility
+83,https://philadelphia.cbslocal.com/,CBS Philly (KYW-TV),least biased,high,usa,mostly free,tv station,high traffic,high credibility
+84,https://cdt.org,Center for Democracy and Technology,least biased,high,usa,,organization/foundation,minimal traffic,high credibility
+85,http://www.opensecrets.org/,Center for Responsive Politics (Open Secrets),least biased,very high,usa,,organization/foundation,medium traffic,high credibility
+86,https://www.csis.org/,Center for Strategic and International Studies,least biased,very high,usa,,organization/foundation,medium traffic,high credibility
+87,https://www.postregister.com/messenger/,Challis Messenger,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+88,https://www.channelnewsasia.com/,Channel News Asia (CNA),least biased,high,singapore,,tv station,high traffic,high credibility
+89,https://www.charitynavigator.org/,Charity Navigator,,high,usa,,,,
+90,https://www.timesfreepress.com,Chattanooga Times Free Press,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+91,https://www.chicoer.com/,Chico Enterprise-Record,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+92,https://www.chinookobserver.com,Chinook Observer,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+93,https://chippewa.com/,Chippewa Herald,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+94,http://www.csmonitor.com/,Christian Science Monitor,least biased,high,usa,,magazine,medium traffic,high credibility
+95,https://www.cincinnati.com/,Cincinnati Enquirer,least biased,high,usa,mostly free,newspaper,high traffic,high credibility
+96,https://calgary.citynews.ca/,CityNews Calgary,least biased,high,canada,,radio station,high traffic,high credibility
+97,https://edmonton.citynews.ca/,CityNews Edmonton,least biased,high,canada,,radio station,high traffic,high credibility
+98,https://halifax.citynews.ca/,CityNews Halifax,least biased,high,canada,,radio station,high traffic,high credibility
+99,https://kitchener.citynews.ca/,CityNews Kitchener,least biased,high,canada,,radio station,high traffic,high credibility
+100,https://montreal.citynews.ca/,CityNews Montreal,least biased,high,canada,,radio station,high traffic,high credibility
+101,https://ottawa.citynews.ca/,CityNews Ottawa,least biased,high,canada,,radio station,high traffic,high credibility
+102,https://toronto.citynews.ca/,CityNews Toronto,least biased,high,canada,,radio station,high traffic,high credibility
+103,https://vancouver.citynews.ca/,CityNews Vancouver,least biased,high,canada,,radio station,high traffic,high credibility
+104,https://winnipeg.citynews.ca/,CityNews Winnipeg,least biased,high,canada,,radio station,high traffic,high credibility
+105,https://clarindaherald.com/,Clarinda Herald-Journal,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+106,https://www.cctimesdemocrat.com/,Clay County Times-Democrat,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+107,https://www.claytonrecord.com/,Clayton Record,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+108,https://columbustelegram.com/,The Columbus Telegram,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+109,https://www.cnet.com/,CNET,least biased,high,usa,,website,high traffic,high credibility
+110,https://www.ced.org/,Committee for Economic Development,least biased,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+111,https://www.cpj.org/,Committee to Protect Journalists,least biased,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+112,https://communityimpact.com/,Community Impact,least biased,high,usa,mostly free,website,medium traffic,high credibility
+113,https://independenttribune.com/,Concord Independent Tribune,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+114,https://www.concordmonitor.com,Concord Monitor,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+115,https://www.congress.gov/,Congress.gov,least biased,very high,usa,mostly free,organization/foundation,high traffic,high credibility
+116,https://www.cbo.gov/,Congressional Budget Office (CBO),least biased,very-high,usa,,organization/foundation (government),medium traffic,high credibility
+117,https://constitutioncenter.org,Constitution Daily,least biased,high,usa,mostly free,organization/foundation,medium traffic,high credibility
+118,https://www.consumerreports.org,Consumer Reports,least biased,high,usa,mostly free,magazine,high traffic,high credibility
+119,https://cookpolitical.com/,Cook Political Report,least biased,high,usa,,website,medium traffic,high credibility
+120,https://www.corriere.it/,Corriere Della Sera,least biased,high,italy,moderate freedom,newspaper,high traffic,high credibility
+121,https://www.coronavirus.gov/,Coronavirus.gov,least biased,high,usa,mostly free,organization/foundation,high traffic,high credibility
+122,https://www.gazettetimes.com/,Corvallis Gazette-Times,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+123,https://www.cfr.org/,Council on Foreign Relations,least biased,high,usa,,organization/foundation,medium traffic,high credibility
+124,https://www.countable.com/,Countable,least biased,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+125,https://www.countryliving.com/,Country Living,least biased,high,usa,mostly free,magazine,high traffic,high credibility
+126,https://www.courthousenews.com,Courthouse News Service,least biased,high,usa,,website,medium traffic,high credibility
+127,https://www.courttv.com/,Court TV,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+128,https://covidtracking.com/,The Covid Tracking Project,least biased,high,usa,mostly free,website,minimal traffic,high credibility
+129,https://www.cp24.com/,CP24,least biased,high,canada,,tv station,high traffic,high credibility
+130,https://www.craigdailypress.com/,Craig Press,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+131,https://www.crainscleveland.com/,Crain’s Cleveland Business,least biased,high,usa,,magazine,medium traffic,high credibility
+132,https://www.crainsdetroit.com/,Crains Detroit,least biased,high,usa,,magazine,medium traffic,high credibility
+133,https://cruxnow.com/,Crux,least biased,high,usa,mostly free,website,medium traffic,high credibility
+134,https://www.ctvnews.ca/,CTV News,least biased,high,canada,,tv station,high traffic,high credibility
+135,https://starexponent.com/,Culpeper Star-Exponent,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+136,https://dccircuitbreaker.org,D.C. Circuit Breaker,,high,usa,,,,
+137,https://www.law.com/dailybusinessreview/,Daily Business Review,least biased,high,usa (44/180 press freedom),,website,medium traffic,high credibility
+138,https://www.dailycamera.com,Daily Camera,,high,usa,,,,
+139,https://www.messengernews.net/,Daily Freeman-Journal,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+140,http://www.daily-journal.com,Daily Journal (Illinois),,high,usa,,,,
+141,https://dailyjournalonline.com,Daily Journal (Missouri),,high,usa,,,,
+142,https://www.dailymaverick.co.za/,Daily Maverick,,high,south africa,,,,
+143,https://nonpareilonline.com/,Daily Nonpareil,least biased,high,usa,,newspaper,minimal traffic,high credibility
+144,https://www.dailyrecord.com/,Daily Record,least biased,high,usa (45/180 press freedom),,newspaper,medium traffic,high credibility
+145,https://godanriver.com/,Danville Register & Bee,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+146,http://www.darientimes.com/,Darien Times,,high,usa,,,,
+147,https://www.daytondailynews.com,Dayton Daily News,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+148,https://www.defensenews.com,Defense News,,high,usa,,,,
+149,https://www.defenseone.com/,Defense One,least biased,high,usa (44/180 press freedom),,website,medium traffic,high credibility
+150,https://dbrnews.com/,Denison Bulletin Review,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+151,https://www.dentonrc.com,Denton Record-Chronicle,,high,usa,,,,
+152,https://www.desmoinesregister.com/,The Des Moines Register,least biased,high,usa,mostly free,newspaper,high traffic,high credibility
+153,https://www.standaard.be/,De Standaard,least biased,high,belgium,mostly free,newspaper,high traffic,high credibility
+154,www.detik.com/,Detik.com,least biased,mostly factual,indonesia,limited freedom,website,high traffic,high credibility
+155,http://www.differencebetween.net,DifferenceBetween.net,,very high,usa,,,,
+156,https://www.digi24.ro/,Digi24,least biased,high,romania,moderate freedom,tv station,high traffic,high credibility
+157,https://www.digitaljournal.com/,Digital Journal,least biased,high,usa (44/180 press freedom),,website,medium traffic,high credibility
+158,https://qconline.com/,Dispatch – Argus,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+159,https://www.dmagazine.com/,D Magazine,least biased,high,usa,mostly free,magazine,medium traffic,high credibility
+160,https://www.doctorswithoutborders.org/,Doctors Without Borders,least biased,high,france (34/180 press freedom),,organization/foundation,medium traffic,high credibility
+161,https://dothaneagle.com/,Dothan Eagle,least biased,high,usa,,newspaper,medium traffic,high credibility
+162,https://www.dpa.com/,DPA German Press Agency,least biased,high,germany (13/180 press freedom),,news agency,high traffic,high credibility
+163,https://www.duluthnewstribune.com,Duluth News Tribune,,high,usa,,,,
+164,https://www.eagletribune.com/,Eagle Tribune,least biased,high,usa (45/180 press freedom),,newspaper,medium traffic,high credibility
+165,https://www.edp24.co.uk/,Eastern Daily Press (UK),least biased,high,united kingdom,mostly free,newspaper,high traffic,high credibility
+166,https://www.eastidahonews.com/,East Idaho News,least biased,high,usa,mostly free,website,medium traffic,high credibility
+167,https://www.eatthis.com/,Eat This Not That,least biased,mostly factual,usa,,website,high traffic,high credibility
+168,https://www.leadertelegram.com/,Eau Claire Leader-Telegram,,high,usa,,,,
+169,https://elkodaily.com/,Elko Daily Free Press,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+170,https://www.elnuevodia.com/english/,El Nuevo Dia,,high,usa / self governing commonwealth puerto rico,,,,
+171,https://www.yoursun.com/englewood/,Englewood Sun,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+172,http://www.goerie.com,Erie Times-News,,high,usa,,,,
+173,https://news.err.ee/,ERR News (Estonia Public Broadcasting),least biased,high,estonia,,tv station,high traffic,high credibility
+174,https://www.eurasiagroup.net/,Eurasia Group,,high,usa,,,,
+175,https://www.times-standard.com/,Eureka Times-Standard,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+176,https://www.everycrsreport.com/,Every CRS Report,,very high,usa,,,,
+177,https://www.factcheck.org/,FactCheck.org,least biased,very-high,usa (45/180 press freedom),,organization/foundation,high traffic,high credibility
+178,https://www.factwire.org/,Factwire News Agency,,high,hong kong,,,,
+179,https://www.fayobserver.com/,Fayetteville Observer,least biased,high,usa,,newspaper,medium traffic,high credibility
+180,https://federalnewsnetwork.com/,Federal News Network,,high,usa,,,,
+181,https://www.federaltimes.com/,Federal Times,least biased,high,usa (44/180 press freedom),,website/magazine,minimal traffic,high credibility
+182,https://www.ft.com/,Financial Times,least biased,high,united kingdom,,newspaper,high traffic,high credibility
+183,https://www.firstcoastnews.com/,First Coast News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+184,https://firstdraftnews.org/,First Draft News,least biased,high,usa (44/180 press freedom),,organization/foundation,minimal traffic,high credibility
+185,https://floridapolitics.com/,Florida Politics,least biased,high,usa,mostly free,website,medium traffic,high credibility
+186,https://www.jacksonville.com/,Florida Times-Union,,high,usa,,,,
+187,https://www.foreignaffairs.com/,Foreign Affairs,least biased,high,usa (44/180 press freedom),,journal,medium traffic,high credibility
+188,https://foreignpolicy.com/,Foreign Policy,least biased,high,usa (45/180 press freedom),,magazine,high traffic,high credibility
+189,https://www.messengernews.net/,Forty Dodge Messenger,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+190,https://www.fosters.com/,Foster’s Daily Democrat,,high,usa,,,,
+191,https://www.fourstateshomepage.com/,FourStatesHomepage.com,least biased,high,usa,,tv station,medium traffic,high credibility
+192,https://www.france24.com/en,France24,least biased,high,france (34/180 press freedom),,tv station,high traffic,high credibility
+193,https://thefranklinnewspost.com/,Franklin News-Post,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+194,https://fredericksburg.com/,Fredericksburg Free Lance Star,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+195,https://www.fredericknewspost.com/,Frederick News-Post,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+196,https://fremonttribune.com/,Fremont Tribune,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+197,https://www.advocate-news.com/,FT Bragg Advocate-News,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+198,https://fullfact.org/,Full Fact (UK),,high,united kingdom,,,,
+199,https://news.gallup.com,Gallup,least biased,very high,usa (45/180 press freedom),,organization/foundation,high traffic,high credibility
+200,https://www.geek.com,Geek.com,,high,usa,,,,
+201,https://www.sun-courier.com/,Gladbrook Sun-Courier,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+202,https://www.postindependent.com/,Glenwood Springs Post Independent,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+203,https://www.globalintegrity.org/,Global Integrity,,high,usa,,,,
+204,https://www.globalslaveryindex.org,Global Slavery Index,,high,australia,,,,
+205,http://globegazette.com,Globe Gazette (Iowa),,high,usa,,,,
+206,https://www.goodnewsnetwork.org/,GoodNewsNetwork,least biased,high,usa (45/180 press freedom),,website,medium traffic,high credibility
+207,https://www.gao.gov,US Government Accountability Office (GAO),,high,usa,,,,
+208,https://www.govtrack.us/,GovTrack,,high,usa,,,,
+209,https://theindependent.com/,Grand Island Independent,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+210,https://www.greatfallstribune.com,Great Falls Tribune,,high,usa,,,,
+211,https://www.greenbaypressgazette.com,Green Bay Press-Gazette,,high,usa,,,,
+212,https://www.greenvilleonline.com/,Greenville News,,high,usa,,,,
+213,https://ground.news/,Ground News,least biased,mostly factual,canada,mostly free,website/app,high traffic,high credibility
+214,https://group30.org/,Group of Thirty,,high,usa,,,,
+215,https://www.journal-news.com/,Hamilton Journal-News,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+216,https://hanfordsentinel.com,Hanford Sentinel,,high,usa,,,,
+217,https://hbr.org,Harvard Business Review,least biased,high,usa (44/180 press freedom),,magazine,high traffic,high credibility
+218,https://news.harvard.edu/,Harvard Gazette,least biased,high,usa (45/180 press freedom),,website,medium traffic,high credibility
+219,http://www.hastingstribune.com,Hastings Tribune,,high,usa,,,,
+220,https://www.healthcarefinancenews.com/,Healthcare Finance News,least biased,high,usa (44/180 press freedom),,website,minimal traffic,high credibility
+221,https://herald-review.com,Herald & Review (Illinois),least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+222,https://heterodoxacademy.org,Heterodox Academy,least biased,high,usa (44/180 press freedom),,organization/foundation,minimal traffic,high credibility
+223,https://hickoryrecord.com/,Hickory Daily Record,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+224,http://www.homelandsecuritynewswire.com,Homeland Security News Wire,,high,usa,,,,
+225,https://www.howstuffworks.com/,HowStuffWorks,,very high,usa,,,,
+226,https://www.howtogeek.com,How-To Geek,,very high,usa,,,,
+227,https://www.i24news.tv,I24 News,,high,israel,,,,
+228,https://icitizen.com,ICitizen,,high,usa,,,,
+229,https://www.postregister.com/,Idaho Falls Post Register,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+230,http://www.idahostatesman.com,Idaho Statesman,,high,usa,,,,
+231,https://www.imediaethics.org,iMediaEthics,,high,usa,,,,
+232,https://www.inc.com/,Inc. Magazine,least biased,high,usa,mostly free,magazine,high traffic,high credibility
+233,https://helenair.com/,Independent Record (Montana),,high,usa,,,,
+234,https://ivn.us/,Independent Voter Network (IVN),,high,usa,,,,
+235,https://www.indexmundi.com/,IndexMundi,least biased,high,usa,mostly free,website,medium traffic,high credibility
+236,https://www.indystar.com/,Indianapolis Star,,high,usa,,,,
+237,https://www.dailybulletin.com,Inland Valley Daily Bulletin,,high,usa,,,,
+238,https://iwpr.org,Institute for Women’s Policy Research (IWPR),least biased,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+239,https://www.icij.org/,International Consortium of Investigative Journalists,,very high,usa,,,,
+240,https://www.iea.org/,International Energy Agency (IEA),least biased,high,france (34/180 press freedom),,organization/foundation,medium traffic,high credibility
+241,https://www.cambridge.org/core/journals/international-organization,International Organization,,very high,united kingdom,,,,
+242,https://ipi.media/,International Press Institute,least biased,very high,austria,mostly free,organization/foundation,minimal traffic,high credibility
+243,https://www.rescue.org/,International Rescue Committee (IRC),,high,usa,,,,
+244,https://www.ire.org/,Investigative Reporters and Editors,,very high,usa,,,,
+245,https://www.investing.com/,Investing.com,least biased,mixed,cyprus,mostly free,website,high traffic,medium credibility
+246,https://www.investopedia.com,Investopedia,least biased,high,usa (44/180 press freedom),,website,high traffic,high credibility
+247,https://www.ipsos.com,Ipsos Polling,least biased,high,france,mostly free,organization/foundation,medium traffic,high credibility
+248,https://www.jacksonsun.com,Jackson Sun,,high,usa,,,,
+249,https://www.janes.com/,Janes Information Group,,high,united kingdom,,,,
+250,https://www.japantimes.co.jp/,Japan Times,least biased,high,japan,moderate freedom,newspaper,high traffic,high credibility
+251,https://www.jta.org/,Jewish Telegraphic Agency (JTA),,high,usa,,,,
+252,http://www.journalgazette.net/,Journal Gazette,,high,usa,,,,
+253,http://justicedenied.org,Justice Denied,,high,usa,,,,
+254,https://www.kadn.com/,KADN – Lafayette News,least biased,high,usa,mostly free,tv station,minimal traffic,high credibility
+255,https://www.kagstv.com/,KAGS – Bryan News,least biased,high,usa,mostly free,tv station,minimal traffic,high credibility
+256,https://www.kait8.com/,KAIT8-TV,,high,usa,,,,
+257,https://www.kalb.com/,KALB – Central Louisiana News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+258,https://www.yaktrinews.com/,KAPP – Yakima News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+259,https://www.kare11.com/,KARE11,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+260,https://www.kark.com/,KARK – Little Rock News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+261,https://www.alaskasnewssource.com/,KATH – Juneau,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+262,https://www.alaskasnewssource.com/,KAUU – Anchorage,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+263,https://www.newschannel6now.com/,KAUZ – Wichita Falls News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+264,https://www.crossroadstoday.com/,KAVU – Victoria News,least biased,high,usa,mostly free,tv station,minimal traffic,high credibility
+265,https://www.kbjr6.com/,KBJR – Duluth News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+266,https://www.12newsnow.com/,KBMT – 12NewsNow,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+267,https://www.kbtx.com/,KBTX News 3,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+268,https://www.kcbd.com/,KCBD – Lubbock News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+269,https://www.kcci.com/,KCCI Des Moines,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+270,https://www.thedenverchannel.com/,KCDO – Denver News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+271,https://www.kcentv.com/,KCEN – Central Texas News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+272,https://www.newspressnow.com/,KCJO – St. Joseph News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+273,https://www.kcrg.com/,KCRG News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+274,https://www.kcra.com/,KCRA 3,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+275,https://www.kctv5.com/,KCTV5,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+276,https://cw33.com/,KDAF – CW33,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+277,https://cbs4local.com/,KDBC – El Paso News,right-center,high,usa,,tv station,medium traffic,high credibility
+278,https://www.kdrv.com/,KDRV – Medford News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+279,https://kdvr.com/,KDVR-TV,least biased,high,usa (44/180 press freedom),,tv station,medium traffic,high credibility
+280,https://kearneyhub.com/,Kearney Hub,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+281,https://www.keloland.com/,KELO – Sioux Falls News,least biased,high,usa,,tv station,medium traffic,high credibility
+282,https://www.kens5.com/,KENS – San Antonio News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+283,https://www.myeasternshoremd.com/qa/,Kent Island Bay Times,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+284,https://www.turnto23.com/,KERO – 23ABC,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+285,http://kesq.com/,KESQ – Palm Springs News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+286,https://www.ketk.com/,KETK – Jacksonville Texas News,least biased,high,usa,,tv station,medium traffic,high credibility
+287,https://www.ketv.com/,KETV,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+288,https://cbsaustin.com/,KEYE – Austin News,right-center,high,usa,,tv station,medium traffic,high credibility
+289,https://keyt.com/,KEYT – Santa Barbara News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+290,https://www.keysnews.com/,Key West Citizen,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+291,https://www.kezi.com/,KEZI – Eugene News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+292,https://www.newschannel10.com/,KFDA – Amarillo News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+293,https://www.cbs8.com/,KFMB – San Diego News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+294,https://www.12news.com/,KFSM – Fort Smith-Fayetteville News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+295,https://www.nwahomepage.com/,KFTA – Northwest Arkansas News,least biased,high,usa,,tv station,medium traffic,high credibility
+296,https://www.kfvs12.com/,KFVS – Cape Girardeau News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+297,https://www.kgns.tv/,KGNS News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+298,https://www.yourcentralvalley.com/,KGPE – Fresno News,least biased,high,usa,,tv station,medium traffic,high credibility
+299,https://www.kgw.com/,KGW – Portland News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+300,https://www.wyomingnewsnow.tv/,KGWN – Wyoming News Now,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+301,https://www.4029tv.com/,KHBS/KHOG – Fort Smith News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+302,https://www.khon2.com/,KHON – Honolulu News,least biased,high,usa,,tv station,medium traffic,high credibility
+303,https://www.khou.com/,KHOU – Houston News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+304,https://www.actionnewsnow.com/,KHSL – Chico News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+305,https://cw39.com/,KIAH – CW39,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+306,https://www.myfoxzone.com/,KIDY – Fox West Texas,least biased,high,usa,mostly free,tv station,minimal traffic,high credibility
+307,https://kiem-tv.com/,KIEM – Redwood News,least biased,high,usa,mostly free,tv station,minimal traffic,high credibility
+308,https://localnews8.com/,KIFI – Idaho Falls News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+309,https://www.kiiitv.com/,KIII – Corpus Christi News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+310,https://www.kimt.com/,KIMT – Mason City News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+311,https://www.king5.com/,KING – Seattle News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+312,https://kion546.com/,KION – Monterey News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+313,https://www.kiplinger.com/,Kiplinger,least biased,high,usa,,magazine,high traffic,high credibility
+314,https://www.kiro7.com/,KIRO 7 – Seattle,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+315,https://www.kitv.com/,KITV,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+316,https://www.kivitv.com/,KIVI – Boise News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+317,https://www.kktv.com/,KKTV 11 News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+318,https://www.8newsnow.com/,KLAS – Las Vegas News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+319,https://klax-tv.com/,KLAX – Alexandria News,least biased,high,usa,mostly free,tv station,minimal traffic,high credibility
+320,https://www.ourquadcities.com/,KLJB – Quad Cities News,least biased,high,usa,,tv station,medium traffic,high credibility
+321,https://www.fox16.com/,KLRT – Little Rock News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+322,https://www.kltv.com/,KLTV – Tyler News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+323,https://www.kmbc.com/,KMBC – Kansas City News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+324,https://abc17news.com/,KMIZ – Columbia News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+325,https://www.crossroadstoday.com/,KMOL – Victoria News,least biased,high,usa,mostly free,tv station,minimal traffic,high credibility
+326,https://www.kmov.com/,KMOV,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+327,https://www.nbcnebraskascottsbluff.com/,KNEP – Scottsbluff News,least biased,high,usa,mostly free,tv station,minimal traffic,high credibility
+328,https://www.hawaiinewsnow.com/,KHNL – Hawaii News Now,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+329,https://www.thedenverchannel.com/,KMGH – Denver7,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+330,https://www.knoe.com/,KNOE – Monroe News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+331,https://www.knopnews2.com/,KNOP TV,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+332,https://www.newspressnow.com/,KNPN – News-Press Now,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+333,https://knowyourmeme.com/,Know Your Meme,least biased,high,usa (44/180 press freedom),,website,high traffic,high credibility
+334,https://knowherenews.com,Knowhere,,high,usa,,,,
+335,https://www.knoxnews.com/,Knoxville News Sentinel,,high,usa,,,,
+336,https://www.actionnewsnow.com/,KNVN – Redding News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+337,https://www.nwahomepage.com/,KNWA – Northwest Arkansas News,least biased,high,usa,,tv station,medium traffic,high credibility
+338,https://www.koaa.com/,KOAA – News5 – Pueblo,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+339,https://www.koamnewsnow.com/,KOAM News Now,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+340,https://www.koat.com/,KOAT – Albuquerque News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+341,https://www.kob.com/,KOB 4 Eyewitness News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+342,https://www.koin.com/,KOIN – Portland,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+343,https://www.fox23.com/,KOKI Fox23 – Tulsa,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+344,https://www.kold.com/,KOLD News 13,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+345,https://www.1011now.com/,KOLN\KGIN – Lincoln News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+346,https://www.kolotv.com/,KOLO 8 News Now,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+347,https://www.ozarksfirst.com/,KOLR – Springfield News,least biased,high,usa,,tv station,medium traffic,high credibility
+348,kompas.com,Kompas.com,least biased,mostly factual,indonesia,limited freedom,website,high traffic,high credibility
+349,https://www.cbs7.com/,KOSA – CBS7,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+350,https://www.newson6.com/,KOTV – Newson6,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+351,https://www.kristv.com/,KRIS 6 News – Corpus Christi,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+352,https://www.kplctv.com/,KPLC – Lake Charles News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+353,https://www.click2houston.com/,KPRC – Click2Houston,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+354,https://www.kptv.com/,KPTV – Portland News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+355,https://www.kpvi.com/,KPVI – Idaho Falls News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+356,https://abc17news.com/,KQFX – Columbia News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+357,https://krdo.com/,KRDO – Colorado Springs News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+358,https://www.kron4.com/,KRON 4,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+359,https://www.krqe.com/,KRQE – Albuquerque,least biased,high,usa,,tv station,medium traffic,high credibility
+360,https://www.ksat.com/,KSAT – San Antonio News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+361,https://www.ksbw.com/,KSBW – Monterey News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+362,https://www.ksdk.com/,KSDK – St. Louis News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+363,https://www.yourcentralvalley.com/,KSEE – Fresno News,least biased,high,usa,,tv station,medium traffic,high credibility
+364,https://www.ksl.com/,KSL-TV,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+365,https://www.ksla.com/,KSLA – Shreveport News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+366,https://www.ksnblocal4.com/,KSNB Channel 4,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+367,https://www.ksn.com/,KSNW – Wichita News,least biased,high,usa,,tv station,medium traffic,high credibility
+368,https://www.ky3.com/,KSPR – KY3.com,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+369,https://kstp.com/,KSTP-TV,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+370,https://fox5sandiego.com/,KSWB – Fox5 – San Diego,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+371,https://www.kswo.com/,KSWO – Lawton News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+372,https://www.bigcountryhomepage.com/,KTAB – Abilene News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+373,https://www.arklatexhomepage.com/,KTAL – Shreveport News,least biased,high,usa,,tv station,minimal traffic,high credibility
+374,https://www.ktiv.com/,KTIV – Sioux City News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+375,https://ktla.com/,KTLA,,high,usa,,,,
+376,https://www.ktre.com/,KTRE – Lufkin News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+377,https://www.ktsm.com/,KTSM – El Paso News,least biased,high,usa,,tv station,medium traffic,high credibility
+378,https://www.alaskasnewssource.com/,KTUU-TV,least biased,high,usa (44/180 press freedom),,tv station,medium traffic,high credibility
+379,https://www.alaskasnewssource.com/,KTVA 11,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+380,https://fox2now.com/,KTVI – St. Louis,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+381,https://www.ktvq.com/,KTVQ – Billings News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+382,https://www.ktvu.com/,KTVU Fox 2,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+383,https://www.abc4.com/,KTVX – Salt Lake City News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+384,https://fox40.com/,KTXL – Sacramento News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+385,https://www.alaskasnewssource.com/,KUBD – Ketchikan,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+386,https://www.crossroadstoday.com/,KVCT – Victoria News,least biased,high,usa,mostly free,tv station,minimal traffic,high credibility
+387,https://www.valleycentral.com/,KVEO – Rio Grande Valley News,least biased,high,usa,,tv station,medium traffic,high credibility
+388,https://www.yaktrinews.com/,KVEW – Kennewick News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+389,https://kvia.com/,KVIA – El Paso News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+390,https://kiem-tv.com/,KVIQ – Eureka News,least biased,high,usa,mostly free,tv station,minimal traffic,high credibility
+391,https://www.kwch.com/,KWCH – Wichita News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+392,https://www.fox44news.com/,KWKT – Waco News,least biased,high,usa,,tv station,minimal traffic,high credibility
+393,https://www.weau.com/,KWQC News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+394,https://www.news9.com/,KWTV-News9,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+395,https://www.kwtx.com/,KWTX – Waco News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+396,https://www.kxan.com/,KXAN – Austin News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+397,https://www.kxii.com/,KXII News12,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+398,https://www.kxlf.com/,KXLF – Butte News,least biased,high,usa,mostly free,tv station,minimal traffic,high credibility
+399,https://www.kxly.com/,KXLY – Spokane News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+400,https://www.fox21news.com/,KXRM – Colorado Springs News,least biased,high,usa,,tv station,medium traffic,high credibility
+401,https://www.crossroadstoday.com/,KXTS – Victoria News,least biased,high,usa,mostly free,tv station,minimal traffic,high credibility
+402,https://www.kxxv.com/,KXXV – Waco News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+403,https://www.fox44news.com/,KYLE – Waco News,least biased,high,usa,,tv station,minimal traffic,high credibility
+404,https://kyma.com/,KYMA – Yuma,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+405,http://www.ledevoir.com/,Le Devoir,least biased,high,canada,mostly free,newspaper,high traffic,high credibility
+406,https://www.lahainanews.com/,Lahaina News,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+407,https://www.lalibre.be/,La Libre,least biased,high,belgium,mostly free,newspaper,high traffic,high credibility
+408,https://www.lansingstatejournal.com,Lansing State Journal,,high,usa,,,,
+409,https://www.lcsun-news.com,Las Cruces Sun-News,,high,usa,,,,
+410,Law.com,Law.com,,high,usa,,,,
+411,https://www.law360.com/,Law360,least biased,high,usa,mostly free,website,medium traffic,high credibility
+412,https://www.lawfareblog.com/,Lawfare Blog,,very high,usa,,,,
+413,https://www2.ljworld.com/,Lawrence Journal-World,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+414,https://leadstories.com/,Lead Stories,least biased,very high,usa (44/180 press freedom),,website,medium traffic,high credibility
+415,https://www.leavenworthtimes.com/,Leavenworth Times,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+416,https://www.ldnews.com/,Lebanon Daily News,,high,usa,,,,
+417,https://lebanon-express.com/,Lebanon-Express,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+418,lesoir.be,Le Soir,least biased,high,belgium,mostly free,newspaper,high traffic,high credibility
+419,https://lexch.com/,Lexington Clipper-Herald,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+420,https://journalstar.com/,Lincoln Journal Star,,high,usa,,,,
+421,https://liveuamap.com/,Live Universal Awareness Map,least biased,mostly factual,usa,,website,high traffic,high credibility
+422,https://lancasteronline.com/,LNP (LancasterOnline),least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+423,https://www.logically.ai/,Logically,least biased,high,united kingdom,mostly free,website,medium traffic,high credibility
+424,http://lompocrecord.com/,Lompoc Record,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+425,https://www.news-journal.com,Longview News-Journal,,high,usa,,,,
+426,https://www.reporterherald.com/,Loveland Reporter-Herald,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+427,https://www.lovelycitizen.com/,Lovely County Citizen,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+428,https://newsadvance.com/,Lynchburg News and Advance,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+429,https://www.makeuseof.com/,MakeUseOf,,high,usa,,,,
+430,https://www.emountainwave.com/,Marshall Mountain Wave,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+431,https://www.timesrepublican.com/,Marshalltown Times-Republican,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+432,https://martinsvillebulletin.com/,Martinsville Bulletin,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+433,https://mcdowellnews.com/,McDowell News,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+434,https://www.mediapost.com/,MediaPost,least biased,high,usa,mostly free,website,medium traffic,high credibility
+435,http://www.memeorandum.com/,Memeorandum,least biased,mixed,usa (44/180 press freedom),,website,medium traffic,medium credibility
+436,https://www.commercialappeal.com/,Memphis Commercial Appeal,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+437,https://www.mendocinobeacon.com/,Mendocino Beacon,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+438,http://mentalfloss.com/,Mental Floss,,high,usa,,,,
+439,https://www.myrecordjournal.com/,Meriden Record-Journal,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+440,https://merionwest.com/,Merion West,,high,usa,,,,
+441,https://www.metrowestdailynews.com,MetroWest Daily News,,high,usa,,,,
+442,https://www.newsnationnow.com/,NewsNation,least biased,high,usa,,tv station,high traffic,high credibility
+443,https://www.military.com/,Military.com,least biased,high,usa (44/180 press freedom),,website,high traffic,high credibility
+444,https://www.militarytimes.com,Military Times,least biased,high,usa (45/180 press freedom),,newspaper,high traffic,high credibility
+445,https://www.livemint.com/,Mint Newspaper (livemint.com),least biased,mixed,india,limited freedom,newspaper,high traffic,medium credibility
+446,https://missoulian.com/,Missoulian,,high,usa,,,,
+447,https://www.mlive.com/,MLive (Michigan – Advance Newspapers),least biased,high,usa (44/180 press freedom),,website,high traffic,high credibility
+448,https://www.modernhealthcare.com/,Modern Healthcare,least biased,high,usa,mostly free,magazine,medium traffic,high credibility
+449,https://www.thenewsstar.com/,Monroe News Star,left-center,high,usa,,newspaper,medium traffic,high credibility
+450,https://mtstandard.com/,Montana Standard,,high,usa,,,,
+451,https://mooresvilletribune.com/,Mooresville Tribune,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+452,https://morganton.com/,Morganton News Herald,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+453,https://morningconsult.com/,Morning Consult,least biased,very high,usa (45/180 press freedom),,organization/foundation,medium traffic,high credibility
+454,https://www.flippinonline.com/,Mountaineer Echo,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+455,https://muscatinejournal.com/,Muscatine Journal,least biased,high,usa,,newspaper,minimal traffic,high credibility
+456,https://mynewsla.com/,MyNewsLA.com,least biased,mostly factual,usa,mostly free,website,medium traffic,high credibility
+457,http://napavalleyregister.com,Napa Valley Register,,high,usa,,,,
+458,http://www.nber.org/,National Bureau of Economic Research (NBER),least biased,high,usa (45/180 press freedom),,organization/foundation,medium traffic,high credibility
+459,http://www.ncsl.org,National Conference of State Legislatures (NCSL),,high,usa,,,,
+460,https://www.followthemoney.org/,National Institute on Money in Politics,least biased,high,usa (44/180 press freedom),,organization/foundation,medium traffic,high credibility
+461,https://www.nationaljournal.com/,National Journal,,high,usa,,,,
+462,https://www.nationmaster.com/,NationMaster,least biased,high,australia (25/180 press freedom),,website,medium traffic,high credibility
+463,https://www.navytimes.com/,Navy Times,,high,usa,,,,
+464,https://www.navytimes.com/,Need 2 Know,,high,usa,,,,
+465,https://www.newarkpostonline.com/,Newark Post,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+466,https://www.newbernsj.com/,New Bern Sun Journal,,high,usa,,,,
+467,https://www.necn.com/,New England Cable News (NECN),least biased,high,usa (44/180 press freedom),,tv station,medium traffic,high credibility
+468,http://www.nzherald.co.nz,New Zealand Herald,,high,new zealand,,,,
+469,https://newsandnews.com/,News and News,least biased,high,usa (44/180 press freedom),,website,minimal traffic,high credibility
+470,https://kfor.com/,News Channel 4 (KFOR.com),,high,usa,,,,
+471,https://newsfactsnetwork.com/,News Facts Network (NFN),,very high,usa,,,,
+472,http://www.newslookup.com,News Lookup,least biased,mixed,usa (44/180 press freedom),,website,minimal traffic,medium credibility
+473,https://www.news24.com/,News24 (South Africa),least biased,high,south africa,mostly free,website,high traffic,high credibility
+474,https://newsela.com/,Newsela,,high,usa,,,,
+475,https://www.newsguardtech.com/,Newsguard,least biased,high,usa (44/180 press freedom),,website,medium traffic,high credibility
+476,http://yournewsnet.com,NewsNet (YourNewsNet.com),,high,usa,,,,
+477,https://www.newsnow.co.uk/,NewsNow (UK),,mixed,united kingdom,,,,
+478,https://www.nst.com.my/,New Straits Times,,mostly factual,malaysia,,,,
+479,NewzJunky.com,NewzJunky.com,,mixed,usa,,,,
+480,https://www.nextgov.com/,NextGov,,high,usa,,,,
+481,https://www.nknews.org,NK News,least biased,mostly factual,usa,mostly free,website,medium traffic,high credibility
+482,https://www.nolabels.org/,No Labels,least biased,high,usa (44/180 press freedom),,organization/foundation,minimal traffic,high credibility
+483,https://www.noozhawk.com/,Noozhawk,least biased,high,usa (44/180 press freedom),,website,medium traffic,high credibility
+484,http://norfolkdailynews.com,Norfolk Daily News,,high,usa,,,,
+485,https://www.northkoreatimes.com,North Korea Times,least biased,mostly factual,usa,mostly free,website,minimal traffic,medium credibility
+486,https://nptelegraph.com/,North Platte Telegraph,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+487,https://www.yoursun.com/northport/,North Port Sun,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+488,https://www.northtamatelegraph.com/,North Tama Telegraph,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+489,https://www.nwfdailynews.com/,Northwest Florida Daily News,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+490,http://www.nwitimes.com,Northwest Indiana Times,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+491,https://www.novinite.com/,Novinite,least biased,mostly factual,bulgaria,moderate freedom,website,medium traffic,high credibility
+492,https://oanow.com/,Opelika Auburn News,least biased,high,usa,,newspaper,medium traffic,high credibility
+493,https://www.openmindmag.org/,OpenMind Magazine,least biased,high,usa,mostly free,website,minimal traffic,high credibility
+494,https://www.oyez.org,Oyez Project,,very high,usa,,,,
+495,https://www.guampdn.com/,Pacific Daily News,,high,guam,,,,
+496,https://www.parkrecord.com/,Park Record,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+497,https://patch.com/,Patch,least biased,high,usa (44/180 press freedom),,website,high traffic,high credibility
+498,https://www.patheos.com/,Patheos,least biased,mixed,usa (44/180 press freedom),,website,medium traffic,medium credibility
+499,https://www.pnj.com,Pensacola News Journal,,high,usa,,,,
+500,https://www.pjstar.com/,Peoria Journal Star,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+501,http://www.pgpf.org/,Peterson Foundation,,high,usa,,,,
+502,https://piie.com/,Peterson Institute for International Economics,least biased,high,usa (44/180 press freedom),,organization/foundation,medium traffic,high credibility
+503,https://www.pewresearch.org/,Pew Research,least biased,very-high,usa (45/180 press freedom),,organization/foundation,high traffic,high credibility
+504,https://placesjournal.org/,Places Journal,least biased,high,usa (45/180 press freedom),,organization/foundation,minimal traffic,high credibility
+505,https://www.starheraldnews.com/,Pocahontas Star Herald,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+506,http://www.poconorecord.com/,Pocono Record,,high,usa,,,,
+507,https://politicalwire.com,Political Wire,,high,usa,,,,
+508,https://www.polygraph.info/,Polygraph.info,,high,usa,,,,
+509,https://www.yoursun.com/,Port Charlotte Sun,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+510,https://www.poynter.org,Poynter Institute,least biased,high,usa (45/180 press freedom),,organization/foundation,medium traffic,high credibility
+511,https://www.prnewswire.com/,PR Newswire,least biased,high,usa (44/180 press freedom),,news agency,high traffic,high credibility
+512,https://www.pratttribune.com/,Pratt Tribune,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+513,https://pressofatlanticcity.com/,Press of Atlantic City,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+514,https://www.procon.org/,ProCon.org,least biased,high,usa (44/180 press freedom),,organization/foundation,medium traffic,high credibility
+515,http://www.publicpolicypolling.com/,Public Policy Polling (PPP),,high,usa,,,,
+516,http://www.prri.org/,Public Religion Research Institute (PRRI),,very high,usa,,,,
+517,https://punchbowl.news/,Punchbowl News,least biased,high,usa,mostly free,website,medium traffic,high credibility
+518,https://www.yoursun.com/puntagorda/,Punta Gorda Sun,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+519,http://qctimes.com/,Quad City Times,,high,usa,,,,
+520,https://www.audacy.com/,Audacy,least biased,high,usa,mostly free,website,high traffic,high credibility
+521,https://www.rferl.org,Radio Free Europe / Radio Liberty,least biased,mostly factual,usa,mostly free,website,high traffic,high credibility
+522,https://www.rand.org,Rand Corporation,least biased,high,usa (44/180 press freedom),,organization/foundation,medium traffic,high credibility
+523,https://rapidcityjournal.com/,Rapid City Journal,,high,usa,,,,
+524,https://rare.us/,Rare News,,mostly factual,usa,,,,
+525,https://ravallirepublic.com/,Ravalli Republic,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+526,https://www.recode.net/ ,Recode,,high,usa,,,,
+527,https://www.redding.com/,Record Searchlight,left-center,high,usa,mostly free,newspaper,medium traffic,high credibility
+528,https://www.sun-courier.com/,Reinbeck Courier,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+529,https://rsf.org/en,Reporters Without Borders,least biased,high,france (34/180 press freedom),,organization/foundation,medium traffic,high credibility
+530,https://reporterslab.org/,Reporters Lab,least biased,very-high,usa (45/180 press freedom),,website,minimal traffic,high credibility
+531,https://www.reuters.com,Reuters,least biased,very high,united kingdom,,news agency,high traffic,high credibility
+532,https://www.rexburgstandardjournal.com/,Rexburg Standard Journal,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+533,http://www.rfi.fr/en/,RFI (Radio France Internationale),least biased,mostly factual,france,mostly free,radio station,high traffic,high credibility
+534,https://www.riverbender.com/,RiverBender.com,least biased,high,usa (45/180 press freedom),,website,medium traffic,high credibility
+535,https://riverdalepress.com/,Riverdale Press,,high,usa,,,,
+536,https://roanoke.com/,Roanoke Times,,high,usa,,,,
+537,https://www.rocanews.com/,RocaNews,least biased,mostly factual,usa,,website,minimal traffic,medium credibility
+538,https://www.rollcall.com,Roll Call,least biased,very high,usa (44/180 press freedom),,newspaper,medium traffic,high credibility
+539,https://www.rte.ie,RTE (Radio Television of Ireland),least biased,high,ireland,,tv station,high traffic,high credibility
+540,https://www.sandiegouniontribune.com,San Diego Union Tribune,,high,usa,,,,
+541,https://www.sanmarcosrecord.com,San Marcos Daily Record,,high,usa,,,,
+542,http://santamariatimes.com,Santa Maria Times,,high,usa,,,,
+543,http://www.heraldtribune.com/,Sarasota Herald-Tribune,,high,usa,,,,
+544,https://www.sayfiereview.com/,Sayfie Review,least biased,high,usa (44/180 press freedom),,website,minimal traffic,high credibility
+545,https://sciencedebate.org/,Science Debate,,very high,usa,,,,
+546,https://www.scoopnest.com/,Scoopnest,,mixed,france,,,,
+547,https://starherald.com/,Scottsbluff Star-Herald,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+548,https://www.scotusblog.com/,SCOTUSblog,least biased,high,usa (45/180 press freedom),,organization/foundation,medium traffic,high credibility
+549,http://www.shareably.net/,Shareably,least biased,mixed,usa (44/180 press freedom),,website,medium traffic,medium credibility
+550,https://valleynewstoday.com/,Shenandoah Valley News,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+551,https://shorensteincenter.org/,Shorenstein Center,least biased,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+552,https://www.shreveporttimes.com,Shreveport Times,,high,usa,,,,
+553,https://www.sierrasun.com/,Sierra Sun,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+554,https://www.simplepolitics.co.uk/,Simple Politics,least biased,high,usa,mostly free,website,minimal traffic,high credibility
+555,https://siouxcityjournal.com/,Sioux City Journal,left-center,high,usa (44/180 press freedom),,newspaper,medium traffic,high credibility
+556,https://www.skyhinews.com/,Sky-Hi News,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+557,https://news.sky.com,Sky News UK,least biased,high,united kingdom,,tv station,high traffic,high credibility
+558,https://www.smartnews.com/en/,SmartNews,least biased,mixed,japan (67/180 press freedom),,website,high traffic,medium credibility
+559,https://www.aspentimes.com/snowmass/,Snowmass Sun,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+560,https://www.southbendtribune.com/,South Bend Tribune,least biased,high,usa (44/180 press freedom),,newspaper,medium traffic,high credibility
+561,https://www.sun-sentinel.com/,South Florida Sun-Sentinel,least biased,high,usa (44/180 press freedom),,newspaper,high traffic,high credibility
+562,https://www.swtimes.com/,Southwest Times Record,least biased,high,usa (44/180 press freedom),,website,medium traffic,high credibility
+563,https://spectrumlocalnews.com/splash,Spectrum News Local,least biased,high,usa,mostly free,website,medium traffic,high credibility
+564,http://www.ny1.com/nyc/all-boroughs,Spectrum News – NY1,least biased,high,usa (44/180 press freedom),,tv station,medium traffic,high credibility
+565,https://spectrumreport.com/,Spectrum Report,least biased,mixed,usa,mostly free,website,minimal traffic,low credibility
+566,https://www.spotlightpa.org/,Spotlight PA,least biased,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+567,https://www.sctimes.com/,St. Cloud Times,,high,usa,,,,
+568,https://www.newspressnow.com/,St. Joseph News-Press,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+569,https://www.stripes.com/,Stars and Stripes,least biased,high,usa (44/180 press freedom),,newspaper,medium traffic,high credibility
+570,https://www.silive.com/,Staten Island Advance,,high,usa,,,,
+571,http://www.statesmanjournal.com/,Statesman Journal,least biased,high,usa (44/180 press freedom),,newspaper,medium traffic,high credibility
+572,https://www.statesville.com,Statesville Record & Landmark,,high,usa,,,,
+573,https://www.statista.com,Statista,least biased,high,germany (11/180 press freedom),,website,high traffic,high credibility
+574,https://www.steamboatpilot.com/,Steamboat Pilot & Today,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+575,https://www.stimson.org/,Stimson Center,,high,usa,,,,
+576,https://www.strategypage.com,StrategyPage,least biased,high,usa,mostly free,website,medium traffic,high credibility
+577,https://www.stratfor.com/,Stratfor,,high,usa,,,,
+578,https://www.summitdaily.com/,Summit Daily News,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+579,https://www.cecildaily.com/susquehanna_press/,Susquehanna Press,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+580,https://swvatoday.com/,SWVA Today,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+581,https://www.tahoedailytribune.com/,Tahoe Daily Tribune,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+582,https://www.taipeitimes.com/,Taipei Times,,high,taiwan,,,,
+583,https://www.tamatoledonews.com/,Tama-Toledo News Chronicle,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+584,https://www.techspot.com/,TechSpot,least biased,high,usa,mostly free,website,high traffic,high credibility
+585,https://www.telegram.com,Telegram & Gazette,,high,usa,,,,
+586,https://www.texasstandard.org/,Texas Standard,least biased,high,usa (44/180 press freedom),,radio station,medium traffic,high credibility
+587,https://www.tetonvalleynews.net/,Teton Valley News,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+588,http://www.thatsnonsense.com/,That’s Nonsense,,high,united kingdom,,,,
+589,http://auburnpub.com/,The Auburn Citizen,,high,usa,,,,
+590,https://www.afr.com/,The Australian Financial Review,right-center,high,australia,mostly free,newspaper,high traffic,high credibility
+591,https://www.thebalance.com,The Balance,least biased,high,usa (45/180 press freedom),,website,high traffic,high credibility
+592,https://www.newsoptimist.ca/,Battlefords News Optimist,,high,canada,,,,
+593,https://www.thecanadianpress.com/,The Canadian Press,least biased,high,canada (14/180 press freedom),,news agency,high traffic,high credibility
+594,https://www.thecipherbrief.com/,The Cipher Brief,least biased,high,usa (44/180 press freedom),,website,minimal traffic,high credibility
+595,https://www.columbian.com/,The Columbian,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+596,https://constitution.com/,The Constitution,least biased,high,usa,mostly free,website,medium traffic,high credibility
+597,https://theconversation.com/us,The Conversation,least biased,very high,australia (26/180 press freedom),,website,high traffic,high credibility
+598,https://www.daily-chronicle.com,The Daily Chronicle,,high,usa,,,,
+599,https://dailygazette.com,The Daily Gazette,,high,usa,,,,
+600,https://tdn.com,The Daily News (Longview),least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+601,https://dailynorthwestern.com,The Daily Northwestern,,high,usa,,,,
+602,https://dailyprogress.com/,The Daily Progress,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+603,https://www.defconwarningsystem.com,The Defcon Warning System,least biased,high,usa (44/180 press freedom),,website,minimal traffic,high credibility
+604,https://thediplomat.com,The Diplomat Magazine,,high,japan,,,,
+605,https://www.economist.com/,The Economist,least biased,high,united kingdom (35/180 press freedom),,magazine,high traffic,high credibility
+606,https://www.thefencepost.com/,The Fence Post,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+607,https://www.theflipside.io/,The Flip Side,least biased,high,usa (44/180 press freedom),,website,minimal traffic,high credibility
+608,https://www.hjnews.com/,The Herald Journal (Utah),least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+609,https://www.heraldnews.com,The Herald News (Massachusetts),,high,usa,,,,
+610,http://www.herald-dispatch.com,The Herald-Dispatch,,high,usa,,,,
+611,https://www.heraldsun.com,"The Herald-Sun (Durham, North Carolina)",,high,usa,,,,
+612,https://thehill.com/,The Hill,least biased,mostly factual,usa,,newspaper,high traffic,high credibility
+613,https://jamestown.org/,The Jamestown Foundation,least biased,mostly factual,usa,,newspaper,high traffic,high credibility
+614,https://www.postregister.com/star/,The Jefferson Star,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+615,http://www.jordantimes.com/,The Jordan Times,least biased,mixed,jordan,,newspaper,high traffic,medium credibility
+616,https://www.journalstandard.com,Journal Standard,,high,usa,,,,
+617,https://www.macon.com,The Macon Telegraph,,high,usa,,,,
+618,https://www.mariettatimes.com/,The Marietta Times,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+619,https://www.themarshallproject.org,The Marshall Project,,high,usa,,,,
+620,http://memepoliceman.com/,The Meme Policeman,least biased,mostly factual,usa (44/180 press freedom),,website,minimal traffic,high credibility
+621,https://www.modbee.com/,The Modesto Bee,,high,usa,,,,
+622,https://www.themonitor.com,The Monitor (Texas),,high,usa,,,,
+623,https://www.mcall.com/,The Morning Call,least biased,high,usa,mostly free,website,medium traffic,high credibility
+624,https://scnow.com/,The Morning News,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+625,https://thenevadaindependent.com,The Nevada Independent,,high,usa,,,,
+626,https://www.thenews.mx/,The News (Mexico City),,high,mexico,,,,
+627,https://newslit.org/,The News Literacy Project,least biased,high,usa (44/180 press freedom),,organization/foundation,minimal traffic,high credibility
+628,https://newsvirginian.com/,The News Virginian,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+629,http://outlook.monmouth.edu/,The Outlook (Monmouth University),,high,usa,,,,
+630,https://www.postandcourier.com/,The Post and Courier,least biased,high,usa (44/180 press freedom),,newspaper,medium traffic,high credibility
+631,https://poststar.com/,The Post Star,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+632,https://www.syracuse.com,The Post-Standard (Syracuse),,high,usa,,,,
+633,https://www.recordnet.com/,The Record (Stockton),least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+634,https://www.theregister.com/,The Register UK,least biased,high,united kingdom (33/180 press freedom),,website,high traffic,high credibility
+635,http://www.therepublic.com,The Republic (Indiana),,high,usa,,,,
+636,https://www.masslive.com,The Republican (Masslive.com),,high,usa,,,,
+637,https://www.thecalifornian.com/,The Salinas Californian,left-center,high,usa,,newspaper,minimal traffic,high credibility
+638,https://www.scotsman.com/,The Scotsman,least biased,high,united kingdom (33/180 press freedom),,newspaper,high traffic,high credibility
+639,https://cumberlink.com/,The Sentinel (Pennsylvania),least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+640,http://www.thesmokinggun.com/,The Smoking Gun,,high,usa,,,,
+641,https://sociable.co/,The Sociable,least biased,high,ireland,,website,minimal traffic,high credibility
+642,https://thesouthern.com/,The Southern Illinoisan,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+643,http://www.stardem.com,The Star Democrat,,high,usa,,,,
+644,https://thestrategybridge.org,The Strategy Bridge,least biased,high,usa,mostly free,organization/foundation,minimal traffic,high credibility
+645,https://www.tennessean.com/,The Tennessean,least biased,high,usa (44/180 press freedom),,newspaper,high traffic,high credibility
+646,http://www.mywebtimes.com,The Times (Illinois),,high,usa,,,,
+647,http://thetandd.com,The Times and Democrat,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+648,https://www.thetowntalk.com,The Town Talk,,high,usa,,,,
+649,https://www.theunion.com/,The Union (Nevada County),least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+650,https://www.vindy.com/,The Vindicator,,high,usa,,,,
+651,https://wcfcourier.com/,The Waterloo-Cedar Falls Courier,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+652,https://www.theunion.com/news/twi,The Wildwood Independent,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+653,https://www.zdf.de/,ZDF (Zweites Deutsches Fernsehen),least biased,high,germany (13/180 press freedom),,tv station,high traffic,high credibility
+654,https://www.thirdway.org/,Third Way,,mostly factual,usa,,,,
+655,https://www.thoughtco.com,ThoughtCo,least biased,very high,usa (45/180 press freedom),,website,high traffic,high credibility
+656,https://timesofsandiego.com/,Times of San Diego,least biased,high,usa (44/180 press freedom),,website,medium traffic,high credibility
+657,http://magicvalley.com/,Times-News (Idaho),least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+658,http://www.todayifoundout.com/,Today I Found Out,least biased,high,usa,mostly free,website,medium traffic,high credibility
+659,http://www.tonganoxiemirror.com/,Tonganoxie Mirror,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+660,https://www.transparency.org/,Transparency International,,very high,germany,,,,
+661,http://www.transpartisanreview.com/,Transpartisan Review,least biased,mostly factual,usa (45/180 press freedom),,website,minimal traffic,high credibility
+662,https://www.record-eagle.com,Traverse City Record-Eagle,,high,usa,,,,
+663,https://tribunecontentagency.com/tribune-news-service/,Tribune Content Agency,least biased,high,usa (44/180 press freedom),,news agency,medium traffic,high credibility
+664,https://www.tri-cityherald.com/,Tri-City Herald,,high,usa,,,,
+665,https://www.truthorfiction.com/,TruthOrFiction.com,least biased,very high,usa (44/180 press freedom),,website,medium traffic,high credibility
+666,https://www.tut.by/,Tut.by,least biased,mostly factual,belarus,mostly free,website,high traffic,high credibility
+667,https://www.tvw.org/,TVW Washington State,,very high,usa,,,,
+668,https://loganwoodbine.com/,Twiner-Herald,least biased,high,usa,,newspaper,minimal traffic,high credibility
+669,https://www.upi.com,United Press International (UPI),least biased,high,usa (44/180 press freedom),,news agency,medium traffic,high credibility
+670,https://www.house.gov/,United States House of Representatives (House.gov),least biased,very high,usa (44/180 press freedom),,organization/government,high traffic,high credibility
+671,https://www.uscourts.gov/,United States Courts (uscourts.gov),least biased,high,usa,mostly free,organization/foundation,high traffic,high credibility
+672,https://www.usaspending.gov/,USA Spending,,very high,usa,,,,
+673,https://usafacts.org/,USA Facts,least biased,very-high,usa (45/180 press freedom),,website,medium traffic,high credibility
+674,https://www.standard.net/,Utah Standard-Examiner,right-center,high,usa (44/180 press freedom),,newspaper,medium traffic,high credibility
+675,https://www.vaildaily.com/,Vail Daily,least biased,high,usa,mostly free,newspaper,medium traffic,high credibility
+676,https://www.yoursun.com/venice/,Venice Gondolier Sun,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+677,https://www.verifythis.com/,VERIFY Fact Check,least biased,high,usa,mostly free,website,medium traffic,high credibility
+678,http://www.viralthread.com/,Viral Thread,,mixed,united kingdom,,,,
+679,https://www.voanews.com,Voice of America,least biased,high,usa (45/180 press freedom),,radio station,high traffic,high credibility
+680,https://www.vosizneias.com,Vos Iz Neias,least biased,mixed,usa,mostly free,website,medium traffic,medium credibility
+681,https://justfacts.votesmart.org/,Vote Smart,least biased,high,usa (44/180 press freedom),,organization/foundation,medium traffic,high credibility
+682,https://www.waaytv.com/,WAAY – Huntsville News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+683,https://www.deltanews.tv/,WABG – DeltaNews,least biased,high,usa,mostly free,tv station,minimal traffic,high credibility
+684,https://www.wabi.tv/,WABI – Bangor News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+685,https://www.wacotrib.com,Waco Tribune-Herald,,high,usa,,,,
+686,https://www.wafb.com/,WAFB – Baton Rouge,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+687,https://www.waff.com/,WAFF – Huntsville,least biased,high,usa (44/180 press freedom),,tv station,medium traffic,high credibility
+688,https://www.wagmtv.com/,WAGM – Maine News,least biased,high,usa,mostly free,tv station,minimal traffic,high credibility
+689,https://wahoo-ashland-waverly.com/,Wahoo Newspaper,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+690,https://www.fox10tv.com/,WALA – Mobile News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+691,https://www.walb.com/,WALB – Albany GA,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+692,https://www.wane.com/,WANE – Fort Wayne News,least biased,high,usa,,tv station,high traffic,high credibility
+693,https://www.waow.com/,WAOW – Wausau News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+694,https://www.wapt.com/,WAPT – Jackson News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+695,https://warontherocks.com/,War on the Rocks,,high,usa,,,,
+696,https://www.c-span.org/series/?washingtonJournal,Washington Journal,least biased,high,usa (44/180 press freedom),,tv station,medium traffic,high credibility
+697,https://wtop.com,Washington’s Top News (WTOP),,high,usa,,,,
+698,https://www.wate.com/,WATE – Knoxville News,least biased,high,usa,,tv station,medium traffic,high credibility
+699,https://www.localmemphis.com/,WATN – Memphis News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+700,https://www.wave3.com/,WAVE – Louisville News,least biased,high,usa,,tv station,medium traffic,high credibility
+701,https://www.wavy.com/,WAVY – Norfolk News,least biased,high,usa,,tv station,medium traffic,high credibility
+702,https://www.wbaltv.com/,WBAL – Baltimore News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+703,https://www.wbay.com/,WBAY Action 2 News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+704,https://www.wbir.com/,WBIR – Knoxville News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+705,https://www.wbko.com/,WBKO – Bowling Green,least biased,high,usa,,tv station,medium traffic,high credibility
+706,https://wbng.com/,WBNG – Binghamton,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+707,https://www.10tv.com/,WBNS-TV (10tv.com),least biased,high,usa,mostly free,website,high traffic,high credibility
+708,https://www.wbrc.com/,WBRC – Birmingham,least biased,high,usa,,tv station,medium traffic,high credibility
+709,https://www.pahomepage.com/,WBRE/WYOU Eyewitness News,least biased,high,usa,,tv station,medium traffic,high credibility
+710,https://www.wbtv.com/,WBTV – Charlotte News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+711,https://www.wbtw.com/,WBTW – Myrtle Beach News,least biased,high,usa,,tv station,medium traffic,high credibility
+712,https://www.wcax.com/,WCAX – Burlington News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+713,https://www.counton2.com/,WCBD – Charleston News,least biased,high,usa,,tv station,medium traffic,high credibility
+714,https://www.wcia.com/,WCIA – Central Illinois News,least biased,high,usa,,tv station,medium traffic,high credibility
+715,https://www.wcjb.com/,WCJB – Gainesville,least biased,high,usa (44/180 press freedom),,tv station,medium traffic,high credibility
+716,https://www.nbc4i.com/,WCMH – Columbus,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+717,https://www.wcnc.com/,WCNC – Charlotte News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+718,https://www.wcpo.com/,WCPO – Cincinnati News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+719,https://www.live5news.com/,WCSC – Charleston News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+720,https://www.wctv.tv/,WCTV Eyewitness News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+721,https://www.wcvb.com/,WCVB – Boston News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+722,https://fox4kc.com/,WDAF – Kansas City News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+723,https://www.wdam.com/,WDAM – Hattiesburg News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+724,https://www.wdbj7.com/,WDBJ – Roanoke,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+725,https://www.wdio.com/,WDIO – Duluth News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+726,https://www.clickondetroit.com/,WDIV ClickOnDetroit,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+727,https://www.wdsu.com/,WDSU – New Orleans News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+728,https://www.wdtn.com/,WDTN – Dayton News,least biased,high,usa,,tv station,medium traffic,high credibility
+729,https://www.wdtv.com/,WDTV – Weston News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+730,https://www.localdvm.com/,WDVM – DCW 50,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+731,https://www.wearethemighty.com/,We Are The Mighty,,high,usa,,,,
+732,https://www.weau.com/,WEAU 13 News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+733,https://www.wect.com/,WECT News 6,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+734,https://www.tristatehomepage.com/,WEHT – Evansville News,least biased,high,usa,,tv station,medium traffic,high credibility
+735,https://www.weny.com/,WENY News,least biased,high,usa,mostly free,tv station,minimal traffic,high credibility
+736,https://www.wesh.com/,WESH – Orlando News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+737,https://www.westernmassnews.com/,Western Mass News,least biased,high,usa,mostly free,website,medium traffic,high credibility
+738,https://www.wvpublic.org/,West Virginia Public Broadcasting,least biased,high,usa,,tv station/radio station/website,high traffic,high credibility
+739,https://www.mytwintiers.com/,WETM – Elmira News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+740,https://www.wevv.com/,WEVV – Evansville News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+741,https://www.news5cleveland.com/,WEWS – News 5 – Cleveland,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+742,https://www.mychamplainvalley.com/,WFFF – Burlington News,least biased,high,usa,,tv station,medium traffic,high credibility
+743,https://www.wfft.com/,WFFT – Fort Wayne News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+744,https://www.14news.com/,WFIE – Evansville News,least biased,high,usa,,tv station,medium traffic,high credibility
+745,https://www.wfla.com/,WFLA – Tampa Bay,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+746,https://www.wflx.com/,WFLX – West Palm Beach,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+747,https://www.wfmynews2.com/,WFMYnews2.com,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+748,https://www.wfmz.com/,WFMZ – Allentown News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+749,https://www.wearegreenbay.com/,WFRV – Green Bay News,least biased,high,usa,,tv station,medium traffic,high credibility
+750,https://www.wearegreenbay.com/,Congress working on legislation to help workers recover stolen wages,least biased,high,usa,,tv station,medium traffic,high credibility
+751,https://www.wfxrtv.com/,WFXR – Roanoke News,least biased,high,usa,,tv station,medium traffic,high credibility
+752,https://www.boston25news.com/,WFXT – Boston News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+753,https://www.wgal.com/,WGAL – Lancaster News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+754,https://www.wgem.com/,WGEM – Quincy News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+755,https://www.westernmassnews.com/,WGGB – Springfield News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+756,https://myfox8.com/,WGHP Fox8,least biased,high,usa,,tv station,medium traffic,high credibility
+757,https://www.brproud.com/,WGMB – Baton Rouge News,least biased,high,usa,,tv station,medium traffic,high credibility
+758,https://wgntv.com/,WGN News,least biased,high,usa (44/180 press freedom),,tv station,high traffic,high credibility
+759,https://wgno.com/,WGNO – New Orleans News,least biased,high,usa,,tv station,medium traffic,high credibility
+760,https://www.whas11.com/,WHAS – Louisville News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+761,https://whatculture.com/,WhatCulture,least biased,high,united kingdom,mostly free,website,high traffic,high credibility
+762,https://www.ourquadcities.com/,WHBF – Quad Cities News,least biased,high,usa,,tv station,medium traffic,high credibility
+763,https://www.fox13memphis.com/,WHBQ – Memphis News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+764,https://www.whec.com/,WHEC – Rochester News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+765,https://www.whio.com/,WHIO – Dayton News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+766,https://www.foxcarolina.com/,WHNS – Greenville News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+767,https://whnt.com/,WHNT News 19,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+768,https://who13.com/,WHO – Des Moines News,least biased,high,usa,,tv station,medium traffic,high credibility
+769,https://www.whsv.com/,WHSV-TV,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+770,https://www.abc27.com/,WHTM – Harrisburg News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+771,https://www.cbs42.com/,WIAT – CBS 42,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+772,https://www.kansas.com/,Wichita Eagle,least biased,high,usa (44/180 press freedom),,newspaper,medium traffic,high credibility
+773,https://www.wicz.com/,WICZ – Binghamton News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+774,https://www.wilx.com/,WILX 10,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+775,https://www.winknews.com/,WINK – Fort Myers News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+776,https://www.newschief.com/,Winter Haven News Chief,left-center,high,usa,,newspaper,minimal traffic,high credibility
+777,https://www.wistv.com/,WIS – Columbia SC News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+778,https://www.channel3000.com/,WISC – Madison News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+779,https://www.wisn.com/,WISN – Milwaukee News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+780,https://www.witn.com/,WITN News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+781,https://www.wivb.com/,WIVB – Buffalo,least biased,high,usa,,tv station,medium traffic,high credibility
+782,https://www.wivb.com/,WIVB – Buffalo,least biased,high,usa,,tv station,medium traffic,high credibility
+783,https://www.wjbf.com/,WJFB – Lebanon Tennessee News,least biased,high,usa,,tv station,medium traffic,high credibility
+784,https://www.wjhg.com/,WJHG News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+785,https://www.wjhl.com/,WJHL – Johnson City News,least biased,high,usa,,tv station,medium traffic,high credibility
+786,https://www.wjtv.com/,WJTV – Jackson News,least biased,high,usa,,tv station,medium traffic,high credibility
+787,https://fox8.com/,WJW – Cleveland News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+788,https://www.news4jax.com/,WJXT – News4Jax,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+789,https://www.news8000.com/,WKBT – La Crosse News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+790,https://www.wkbw.com/,WKBW – Buffalo News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+791,https://www.clickorlando.com/,WKMG – ClickOrlando,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+792,https://www.wkrg.com/,WKRG News 5,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+793,https://www.wkyc.com/,WKYC – Cleveland News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+794,https://www.wlbt.com/,WLBT – Jackson News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+795,https://www.wlfi.com/,WLFI – Lafayette News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+796,https://www.wlky.com/,WLKY – Louisville News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+797,https://www.wlox.com/,WLOX – Biloxi News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+798,https://www.wltx.com/,WLTX – Columbia News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+799,https://www.uppermichiganssource.com/,WLUC – Upper Peninsula News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+800,https://www.wlwt.com/,WLWT – Cincinnati News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+801,https://www.wmar2news.com/,WMAR – Baltimore News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+802,https://fox47.com/,WMSN – Madison News,right-center,high,usa,,tv station,medium traffic,high credibility
+803,https://www.weau.com/,WMTV News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+804,https://www.deltanews.tv/,WNBD – Greenville News,least biased,high,usa,mostly free,tv station,minimal traffic,high credibility
+805,https://www.cbs17.com/,WNCN – Raleigh,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+806,https://www.wnct.com/,WNCT – Greenville News,least biased,high,usa,,tv station,medium traffic,high credibility
+807,https://www.wndu.com/,WNDU News Now,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+808,https://www.wnem.com/,WNEM – Bay City News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+809,https://wnyt.com/,WNYT – Albany News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+810,https://www.weareiowa.com/,WOI-DT – Des Moines News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+811,https://www.cleveland19.com/,WOIO -Cleveland News,least biased,high,usa,,tv station,medium traffic,high credibility
+812,https://www.woodtv.com/,WOOD – Grand Rapids News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+813,https://spectrumnews1.com/,Worcester – Spectrum News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+814,https://www.wowktv.com/,WOWK – Charleston-Huntington News,least biased,high,usa,,tv station,medium traffic,high credibility
+815,https://www.wowt.com/,WOWT 6 News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+816,https://phl17.com/,WPHL 17,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+817,https://www.fox43.com/,WPMT – York News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+818,https://www.wsoctv.com/,WSOC – Charlotte News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+819,https://www.localsyr.com/,WSYR – Syracuse News,least biased,high,usa,,tv station,medium traffic,high credibility
+820,https://www.fox61.com/,WTIC – Hartford News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+821,https://www.wtsp.com/,WTSP – Tampa Bay News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+822,https://www.wtvm.com/,WTVM – Columbus News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+823,https://www.wtvy.com/,WTVY News4,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+824,https://en.wikinews.org/wiki/Main_Page,WikiNews,least biased,high,usa,mostly free,website,medium traffic,high credibility
+825,https://www.wikipedia.org/,Wikipedia,least biased,mixed,usa (44/180 press freedom),,organization/foundation,high traffic,medium credibility
+826,https://www.winnipegfreepress.com/,Winnipeg Free Press,least biased,high,canada,mostly free,newspaper,high traffic,high credibility
+827,https://www.winonadailynews.com/,Winona Daily News,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+828,http://www.journalnow.com/,Winston-Salem Journal,,high,usa,,,,
+829,https://www.wionews.com/,WION (World is One News),least biased,mixed,india,,website,medium traffic,high credibility
+830,https://madison.com/wsj,Wisconsin State Journal,least biased,high,usa (44/180 press freedom),,newspaper,medium traffic,high credibility
+831,https://www.fox46.com/,WJZY – Charlotte,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+832,https://www.wkrn.com/,WKRN – Nashville News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+833,https://www.wvlt.tv/,WKYT News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+834,https://raleighcw.com/,WLFL – CW 22,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+835,https://www.13wmaz.com/,WMAZ – Macon News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+836,https://www.actionnews5.com/,WMC – Memphis News,least biased,high,usa,,tv station,medium traffic,high credibility
+837,https://www.wmtw.com/,WMTW – Portland News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+838,https://www.wmur.com/,WMUR9,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+839,https://www.wnep.com/,WNEP – Scranton News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+840,https://www.fox35orlando.com/,WOFL Fox 35 Orlando,,high,usa,,,,
+841,https://wn.com/,World News,,mostly factual,usa,,,,
+842,https://www.worldometers.info/,Worldometers,least biased,high,usa,,website,high traffic,high credibility
+843,https://www.worldpoliticsreview.com/,World Politics Review,,high,usa,,,,
+844,http://worldpopulationreview.com/,World Population Review,least biased,mostly factual,usa (44/180 press freedom),,website,high traffic,high credibility
+845,https://pix11.com/,WPIX 11,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+846,https://www.wpri.com/,WPRI – Providence,least biased,high,usa,,tv station,medium traffic,high credibility
+847,https://www.wpta21.com/,WPTA – Fort Wayne,least biased,high,usa (44/180 press freedom),,tv station,medium traffic,high credibility
+848,https://www.wpxi.com/,WPXI,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+849,https://www.wqow.com/,WQOW – Eau Claire News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+850,https://www.wral.com/,WRAL,left-center,high,usa (45/180 press freedom),,tv station,high traffic,high credibility
+851,https://www.wrdw.com/,WRDW – News 12,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+852,https://www.wreg.com/,WREG – Memphis,least biased,high,usa,,tv station,medium traffic,high credibility
+853,https://www.wric.com/,WRIC – Richmond News,least biased,high,usa,,tv station,medium traffic,high credibility
+854,https://www.rochesterfirst.com/,WROC – Rochester First,least biased,high,usa,,tv station,medium traffic,high credibility
+855,https://www.wsav.com/,WSAV – Savannah News,least biased,high,usa,,tv station,medium traffic,high credibility
+856,https://www.witn.com/,WSAW-TV,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+857,https://www.wsaz.com/,WSAZ News Channel,,high,usa,,,,
+858,https://www.wsbtv.com/,WSB – Atlanta News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+859,https://www.wsfa.com/,WSFA – Montgomery,least biased,high,usa,,tv station,medium traffic,high credibility
+860,https://www.wsls.com/,WSLS – 10 News – Roanoke,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+861,https://www.wsmv.com/,WSMV – Nashville,least biased,high,usa,,tv station,medium traffic,high credibility
+862,https://www.wspa.com/,WSPA – Spartanburg News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+863,https://www.wtae.com/,WTAE Pittsburgh’s Action News 4,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+864,https://www.wearecentralpa.com/,WTAJ – Altoona News,least biased,high,usa,,tv station,medium traffic,high credibility
+865,https://www.wtap.com/,WTAP – Parkersburg News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+866,https://www.news10.com/,WTEN – Albany News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+867,https://www.wthitv.com/,WTHI – Terre Haute News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+868,https://www.wthr.com/,WTHR – Indianapolis News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+869,https://www.wtnh.com/,WTNH – New Haven News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+870,https://www.wtok.com/,WTOK-TV,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+871,https://www.wtol.com/,WTOL – Toledo News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+872,https://cbs4indy.com/,WTTV – Indianapolis,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+873,https://www.wtva.com/,WTVA – Tupelo News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+874,https://www.newschannel5.com/,WTVF – NewsChannel5,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+875,https://www.13abc.com/,WTVG 13 Action News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+876,https://www.fox29.com/,WTXF-TV Fox 29,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+877,https://www.wusa9.com/,WUSA9.com,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+878,https://www.13newsnow.com/,WVEC – 13NewsNow,least biased,high,usa,mostly free,website,medium traffic,high credibility
+879,https://www.nbc29.com/,WVIR – Charlottesville,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+880,https://www.wvtm13.com/,WVTM – Birmingham News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+881,https://www.wvlt.tv/,WVLT 8,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+882,https://www.fox8live.com/,WVUE – New Orleans News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+883,https://www.wvva.com/,WVVA – Bluefield News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+884,https://www.nbc12.com/,WWBT – Richmond News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+885,https://www.wwnytv.com/,WWNY – Watertown,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+886,https://www.mysuncoast.com/,WWSB – Sarasota,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+887,https://www.11alive.com/,WXIA – 11Alive.com,least biased,high,usa,mostly free,website,medium traffic,high credibility
+888,https://fox59.com/,WXIN – Fox59 – Indianapolis,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+889,https://www.fox19.com/,WXIX – Cincinnati News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+890,https://www.wwltv.com/,WWL – New Orleans News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+891,https://www.deltanews.tv/,WXVT – DeltaNews,least biased,high,usa,mostly free,tv station,minimal traffic,high credibility
+892,https://www.news10.com/fox23/,WXXA – Fox23,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+893,https://www.wxyz.com/,WXYZ – Detriot News,least biased,high,usa,mostly free,tv station,high traffic,high credibility
+894,https://www.wymt.com/,WYMT – Eastern Kentucky News,least biased,high,usa,,tv station,medium traffic,high credibility
+895,https://www.rocketcitynow.com/,WZDX – Huntsville News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+896,https://www.wzzm13.com/,WZZM – Grand Rapids News,least biased,high,usa,mostly free,tv station,medium traffic,high credibility
+897,https://yorknewstimes.com/,York News-Times,least biased,high,usa,mostly free,newspaper,minimal traffic,high credibility
+898,https://www.zdnet.com/,ZDNet,least biased,high,usa,mostly free,website,high traffic,high credibility
