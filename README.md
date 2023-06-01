@@ -14,3 +14,8 @@ Please cite as
 ~~~
 
 Dataset download: https://zenodo.org/record/7983078
+
+Regression - R script.ipynb This R script generates Figure 3,6,7 and 8.
+Regression - R script - NoTrump.ipynb This R script generates figures in the appendix.
+plots_python.ipynb This Python script generates Figure 2,4 and 5.
+
